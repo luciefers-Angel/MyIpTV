@@ -1,5 +1,10 @@
 [ 
 {
+"title":"AniPlus",
+ "url":"http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8",
+"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXcTupLAfPxyrlpCeCfnTEw4fB9yzvGQDbCA&usqp=CAU"
+},
+{
 "title":"Aaj Tak News",
  "url":"https://feeds.intoday.in/aajtak/api/master.m3u8",
 "img":"https://www.sabinchaudhary.com.np/LiveTv/Ajtak.png"
