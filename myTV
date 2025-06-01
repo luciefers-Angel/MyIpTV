@@ -1,0 +1,24 @@
+#EXTINF:-1 tvg-name="AniPlus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXcTupLAfPxyrlpCeCfnTEw4fB9yzvGQDbCA&usqp=CAU",AniPlus
+http://vod.simpletv.eu/media/storage/My%20Little%20Pony%20Friendship%20is%20Magic%20Season%201-5/S1/MLP_FiM%20S1%20E1%20-%20Friendship%20is%20Magic%20%5bpart%201%5d.mp4
+#EXTINF:-1 tvg-name="BEAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfyreY3Iy2I_boyAavNAqlhBWVVggFOJCDqA&usqp=CAU",BEAM TV
+http://vod.simpletv.eu/media/storage/Teletubbies_2016/1.mp4
+#EXTINF:-1 tvg-name="CNN Philippines" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/1200px-CNN_Philippines_Logo.svg.png",CNN Philippines
+https://dl.animesp.xyz/Winter%202022/Orient/720/%5B01%20-%20Orient%5D%20%5B720p%5D%20%5BSub%5D%20%40Anime_Twitte%20.mkv
+#EXTINF:-1 tvg-name="SMNI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/SMNI39.jpg",SMNI
+http://dl6.doostihaa.com/Animation/2000/J/Jackie%20Chan%20Adventures%20%282000-2005%29/Season%201%20%282000-01%29/Jackie%20Chan%20Adventures%20-%20S01%20E13%20-%20Day%20of%20the%20Dragon%20%28480p%20-%20Web-DL%29.mp4%20-%20S01%20E13%20-%20Day%20of%20the%20Dragon%20%28480p%20-%20Web-DL%29.srt
+#EXTINF:-1 tvg-name="Aaj Tak News" tvg-logo="https://www.sabinchaudhary.com.np/LiveTv/Ajtak.png",Aaj Tak News
+https://feeds.intoday.in/aajtak/api/master.m3u8
+#EXTINF:-1 tvg-name="India Tv" tvg-logo="https://www.sabinchaudhary.com.np/LiveTv/indiatv.png",India Tv
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-name="1st India" tvg-logo="https://www.sabinchaudhary.com.np/LiveTv/1india.jpg",1st India
+https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
+#EXTINF:-1 tvg-name="Nat Geo People" tvg-logo="https://www.sabinchaudhary.com.np/LiveTv/news24.jpg",Nat Geo People
+https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+#EXTINF:-1 tvg-name="News 24 India" tvg-logo="https://www.sabinchaudhary.com.np/LiveTv/news24.jpg",News 24 India
+https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-name="Between Maybes" tvg-logo="https://www.sabinchaudhary.com.np/LiveTv/news24.jpg",Between Maybes
+http://dl6.sermovie.xyz/Series/2021/Bridgerton/S02/720p.10bit/Bridgerton.S02E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.Sermovie.mkv
+#EXTINF:-1 tvg-name="Movies" tvg-logo="https://www.sabinchaudhary.com.np/LiveTv/news24.jpg",Movies
+https://m3u.haiwaikan.com/xm3u8/a0318cf5a51a8c66d42a81d5569668ad3feb519cdda11b52bc11ead7b613cd2b9921f11e97d0da21.m3u8
+#EXTINF:-1 tvg-name="B4U Music" tvg-logo="https://www.sabinchaudhary.com.np/LiveTv/news24.jpg",B4U Music
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
