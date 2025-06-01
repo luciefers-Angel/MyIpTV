@@ -1,0 +1,207 @@
+{
+  "categories": [
+    {
+      "name": "Movie",
+      "types": [
+        {
+          "type": "Chinese",
+          "examples": [
+            {
+              "title": "The Grandmaster",
+              "thumbnail": "https://example.com/thumbnails/the-grandmaster.jpg",
+              "imdb_id": "tt2460004",
+              "play_url": "https://example.com/play/the-grandmaster"
+            },
+            {
+              "title": "Wolf Warrior 2",
+              "thumbnail": "https://example.com/thumbnails/wolf-warrior-2.jpg",
+              "imdb_id": "tt5867188",
+              "play_url": "https://example.com/play/wolf-warrior-2"
+            }
+          ]
+        },
+        {
+          "type": "Korean",
+          "examples": [
+            {
+              "title": "Parasite",
+              "thumbnail": "https://example.com/thumbnails/parasite.jpg",
+              "imdb_id": "tt6751668",
+              "play_url": "https://example.com/play/parasite"
+            },
+            {
+              "title": "Oldboy",
+              "thumbnail": "https://example.com/thumbnails/oldboy.jpg",
+              "imdb_id": "tt0364569",
+              "play_url": "https://example.com/play/oldboy"
+            }
+          ]
+        },
+        {
+          "type": "Hollywood",
+          "examples": [
+            {
+              "title": "Inception",
+              "thumbnail": "https://example.com/thumbnails/inception.jpg",
+              "imdb_id": "tt1375666",
+              "play_url": "https://example.com/play/inception"
+            },
+            {
+              "title": "The Shawshank Redemption",
+              "thumbnail": "https://example.com/thumbnails/shawshank-redemption.jpg",
+              "imdb_id": "tt0111161",
+              "play_url": "https://example.com/play/shawshank-redemption"
+            }
+          ]
+        },
+        {
+          "type": "Filipino",
+          "examples": [
+            {
+              "title": "Hiwaga ng Lawin",
+              "thumbnail": "https://example.com/thumbnails/hiwaga-ng-lawin.jpg",
+              "imdb_id": "tt1234567",
+              "play_url": "https://example.com/play/hiwaga-ng-lawin"
+            },
+            {
+              "title": "Ang Babaeng Hindi Lumuluwa",
+              "thumbnail": "https://example.com/thumbnails/ang-babaeng-hindi-lumuluwa.jpg",
+              "imdb_id": "tt8923694",
+              "play_url": "https://example.com/play/ang-babaeng-hindi-lumuluwa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TV Series",
+      "types": [
+        {
+          "type": "Chinese",
+          "examples": [
+            {
+              "title": "The Longest Day in Chang'an",
+              "thumbnail": "https://example.com/thumbnails/the-longest-day-in-chang-an.jpg",
+              "imdb_id": "tt10238638",
+              "seasons": 1,
+              "episodes": 48,
+              "play_url": "https://example.com/play/the-longest-day-in-chang-an"
+            }
+          ]
+        },
+        {
+          "type": "Korean",
+          "examples": [
+            {
+              "title": "Squid Game",
+              "thumbnail": "https://example.com/thumbnails/squid-game.jpg",
+              "imdb_id": "tt10919420",
+              "seasons": 1,
+              "episodes": 9,
+              "play_url": "https://example.com/play/squid-game"
+            }
+          ]
+        },
+        {
+          "type": "Hollywood",
+          "examples": [
+            {
+              "title": "Breaking Bad",
+              "thumbnail": "https://example.com/thumbnails/breaking-bad.jpg",
+              "imdb_id": "tt0903747",
+              "seasons": 5,
+              "episodes": 62,
+              "play_url": "https://example.com/play/breaking-bad"
+            }
+          ]
+        },
+        {
+          "type": "Filipino",
+          "examples": [
+            {
+              "title": "FPJ's Ang Probinsyano",
+              "thumbnail": "https://example.com/thumbnails/fpj-probinsyano.jpg",
+              "imdb_id": "tt4512898",
+              "seasons": 1,
+              "episodes": 100,
+              "play_url": "https://example.com/play/fpj-probinsyano"
+            }
+          ]
+        },
+        {
+          "type": "Anime",
+          "examples": [
+            {
+              "title": "Attack on Titan",
+              "thumbnail": "https://example.com/thumbnails/attack-on-titan.jpg",
+              "imdb_id": "tt25601420",
+              "seasons": 4,
+              "episodes": 88,
+              "play_url": "https://example.com/play/attack-on-titan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Anime",
+      "types": [
+        {
+          "type": "Chinese",
+          "examples": [
+            {
+              "title": "Ne Zha",
+              "thumbnail": "https://example.com/thumbnails/ne-zha.jpg",
+              "imdb_id": "tt10368382",
+              "play_url": "https://example.com/play/ne-zha"
+            }
+          ]
+        },
+        {
+          "type": "Korean",
+          "examples": [
+            {
+              "title": "Tower of God",
+              "thumbnail": "https://example.com/thumbnails/tower-of-god.jpg",
+              "imdb_id": "tt12345678",
+              "play_url": "https://example.com/play/tower-of-god"
+            }
+          ]
+        },
+        {
+          "type": "Hollywood",
+          "examples": [
+            {
+              "title": "Cowboy Bebop",
+              "thumbnail": "https://example.com/thumbnails/cowboy-bebop.jpg",
+              "imdb_id": "tt0213338",
+              "play_url": "https://example.com/play/cowboy-bebop"
+            }
+          ]
+        },
+        {
+          "type": "Filipino",
+          "examples": [
+            {
+              "title": "Filipino Anime Example",
+              "thumbnail": "https://example.com/thumbnails/filipino-anime-example.jpg",
+              "imdb_id": "tt12345679",
+              "play_url": "https://example.com/play/filipino-anime-example"
+            }
+          ]
+        },
+        {
+          "type": "Anime",
+          "examples": [
+            {
+              "title": "Naruto",
+              "thumbnail": "https://example.com/thumbnails/naruto.jpg",
+              "imdb_id": "tt0409591",
+              "play_url": "https://example.com/play/naruto"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
