@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTGRP:Tagalog Movie
+#EXTINF:-1 tvg-name="Tagalog Movie Sample" tvg-logo="https://i0.wp.com/news.japanim.com/wp-content/uploads/2024/02/cropped-japanim-logo.png?fit=512%2C225&ssl=1" group-title="Tagalog Movie" country="Japan",Tagalog Movie Sample
+https://foxkidstv.be:3369/stream/play.m3u8
+
 #EXTGRP:TV Shows
 #EXTINF:-1 tvg-name="TV Shows Sample" tvg-logo="https://i0.wp.com/news.japanim.com/wp-content/uploads/2024/02/cropped-japanim-logo.png?fit=512%2C225&ssl=1" group-title="TV Shows" country="Japan",TV Shows Sample
 https://foxkidstv.be:3369/stream/play.m3u8
