@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTGRP:Movies
+#EXTINF:-1 tvg-name="Movies Sample" tvg-logo="https://i0.wp.com/news.japanim.com/wp-content/uploads/2024/02/cropped-japanim-logo.png?fit=512%2C225&ssl=1" group-title="Movies" country="Japan",Movies Sample
+https://foxkidstv.be:3369/stream/play.m3u8
+
 #EXTGRP:RatedX Movie
 #EXTINF:-1 tvg-name="RatedX Movie Sample" tvg-logo="https://i0.wp.com/news.japanim.com/wp-content/uploads/2024/02/cropped-japanim-logo.png?fit=512%2C225&ssl=1" group-title="RatedX Movie" country="Japan",RatedX Movie Sample
 https://foxkidstv.be:3369/stream/play.m3u8
