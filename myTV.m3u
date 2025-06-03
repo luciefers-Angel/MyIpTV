@@ -84,7 +84,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #EXTINF:-1 tvg-name="South Park" tvg-logo="https://i.imgur.com/qA3KsTh.png" group-title="Anime" country="United States",South Park
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb1c5e25122000798ac79/3321280/playlist.m3u8?terminate=false&sid=67f014c4-f66e-4860-a7d5-9e9de1cab501&deviceDNT=0&deviceModel=web&deviceVersion=unknown&appName=web&deviceId=2c7c0253-35fc-11ef-a031-2b5d494037a2&appVersion=unknown&deviceType=web&deviceMake=Chrome&clientTime=0&includeExtendedEvents=false&serverSideAds=false
 
-
 #EXTGRP:Anime
 #EXTINF:-1 tvg-name="Toonami Aftermath" tvg-logo="https://i.imgur.com/aSjhZK7.png" group-title="Anime" country="United States",Toonami Aftermath
 http://asp6.toonamiaftermath.com:1934/livehttporigin/est/czmKR2-9IeYQ0-chunklist.m3u8
