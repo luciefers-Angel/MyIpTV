@@ -1,6 +1,38 @@
 #EXTM3U
 
 #EXTGRP:Family
+#EXTINF:-1 tvg-name="Japanim TV" tvg-logo="https://i0.wp.com/news.japanim.com/wp-content/uploads/2024/02/cropped-japanim-logo.png?fit=512%2C225&ssl=1" group-title="Family" country="Japan",Japanim TV
+https://foxkidstv.be:3369/stream/play.m3u8
+
+#EXTGRP:Family
+#EXTINF:-1 tvg-name="TV5 Monde Asia (Asie) (1080p)" tvg-logo="https://apac.tv5monde.com/assets/mobile-app/mobile-app-icon-new.png" group-title="Family" country="Philippines",TV5 Monde Asia (Asie) (1080p)
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+
+#EXTGRP:Religious
+#EXTINF:-1 tvg-name="EWTN Africa Asia" tvg-logo="https://www.ewtn.com/assets/ewtn-badge-4f156d7cd046dd20f7902ec63dd3e1e6892effb9130c634b1fcd868a3a43a05f.jpg" group-title="Religious" country="Philippines",EWTN Africa Asia
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+
+#EXTGRP:Religious
+#EXTINF:-1 tvg-name="INC TV" tvg-logo="https://i.imgur.com/JGSLqA6.png" group-title="Religious" country="Philippines",INC TV
+https://stream-199211.castr.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/tracks-v1a1/rewind-7200.ts.m3u8
+
+#EXTGRP:General
+#EXTINF:-1 tvg-name="Mindanow Network TV" tvg-logo="https://i.imgur.com/xBlYirh.jpeg" group-title="General" country="Philippines",Mindanow Network TV
+https://streams1.comclark.com/overlay/mindanow/chunks.m3u8?nimblesessionid=31403
+
+#EXTGRP:General
+#EXTINF:-1 tvg-name="DZBB-DT1" tvg-logo="https://i.imgur.com/5GXTkZx.png" group-title="General" country="Philippines",DZBB-DT1
+https://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=174487769
+
+#EXTGRP:General
+#EXTINF:-1 tvg-name="CLTV 36" tvg-logo="https://i.imgur.com/IUcTFQ2.png" group-title="General" country="Philippines",Great Commission TV
+https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
+
+#EXTGRP:General
+#EXTINF:-1 tvg-name="A2Z" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="General" country="Philippines",A2Z
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_5.m3u8
+
+#EXTGRP:Family
 #EXTINF:-1 tvg-name="Great Commission TV" tvg-logo="https://i.imgur.com/8cvikOo.png" group-title="Family" country="Philippines",Great Commission TV
 http://45.32.115.103/live/livestream/index.m3u8
 
