@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTGRP:Anime
-#EXTINF:-1 tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Anime" country="China",Animax
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Anime" country="China🇹🇷",Animax
 http://www.djnutte.com/movies/Appleseed%20(DIVX).avi
 
 #EXTGRP:Movies
