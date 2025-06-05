@@ -16,11 +16,11 @@ https://live1.mediadesk.al/cnatvlive.m3u8
 https://www.youtube.com/@EuronewsAlbania/live
 
 #EXTGRP:Anime
-#EXTINF:-1 tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Anime" country="China🇹🇷",Animax
+#EXTINF:-1 tvg-name="Google Drive Sample" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Google Deive" country="China🇹🇷",Google Drive Sample
 https://drive.google.com/file/d/12dLREacoiTlZvESEKfx4V28S3X4vLIha/view
 
 #EXTGRP:Movies
-#EXTINF:-1 tvg-name="Google Drive Sample" tvg-logo="https://i0.wp.com/news.japanim.com/wp-content/uploads/2024/02/cropped-japanim-logo.png?fit=512%2C225&ssl=1" group-title="Movies" country="Mexico",Google Drive Sample
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://i0.wp.com/news.japanim.com/wp-content/uploads/2024/02/cropped-japanim-logo.png?fit=512%2C225&ssl=1" group-title="Movies" country="Mexico",Google Drive Sample
 https://foxkidstv.be:3369/stream/play.mkv
 
 #EXTGRP:RatedX Movie
