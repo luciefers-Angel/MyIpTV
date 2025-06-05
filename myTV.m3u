@@ -1,6 +1,10 @@
 #EXTM3U
 
 #EXTGRP:Anime
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Anime" video-type="Series" country="Cagayan de Oro",Animax
+http://www.djnutte.com/movies/Appleseed%20(DIVX).avi
+
+#EXTGRP:Anime
 #EXTINF:-1 tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Anime" country="China🇹🇷",Animax
 http://www.djnutte.com/movies/Appleseed%20(DIVX).avi
 
@@ -17,7 +21,7 @@ https://foxkidstv.be:3369/stream/play.avi
 https://foxkidstv.be:3369/stream/play.3gp
 
 #EXTGRP:TV Shows
-#EXTINF:-1 tvg-name="TV Shows Sample" tvg-logo="https://i0.wp.com/news.japanim.com/wp-content/uploads/2024/02/cropped-japanim-logo.png?fit=512%2C225&ssl=1" group-title="TV Shows" country="Japan",TV Shows Sample
+#EXTINF:-1 tvg-name="TV Shows Sample" tvg-logo="https://i0.wp.com/news.japanim.com/wp-content/uploads/2024/02/cropped-japanim-logo.png?fit=512%2C225&ssl=1" group-title="TV Shows" country="Dubai",TV Shows Sample
 https://foxkidstv.be:3369/stream/play.flv
 
 #EXTGRP:Family
