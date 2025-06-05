@@ -146,7 +146,7 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
 #EXTGRP:11eyes
 #EXTINF:-1 tvg-name="11eyes Episode 1" tvg-logo="https://cdn.animenewsnetwork.com/thumbnails/crop900x350/video/category/579/key_art_11_eyes.jpg" group-title="11eyes" country="Japan",11eyes Episode 1
-https://storage.kanzaki.ru/ANIME___/11eyes/%5BJacobSwaggedUp%5D%2011eyes%20-%2001%20%28BD%201280x720%29.mp4
+https://storage.kanzaki.ru/ANIME___/One-Punch_Man/[HorribleSubs] One-Punch Man - 01 [720p].mkv
 #EXTINF:-1 tvg-name="11eyes Episode 2" tvg-logo="https://cdn.animenewsnetwork.com/thumbnails/crop900x350/video/category/579/key_art_11_eyes.jpg" group-title="11eyes" country="Japan",11eyes Episode 2
 https://storage.kanzaki.ru/ANIME___/11eyes/%5BJacobSwaggedUp%5D%2011eyes%20-%2002%20%28BD%201280x720%29.mp4
 #EXTINF:-1 tvg-name="11eyes Episode 3" tvg-logo="https://cdn.animenewsnetwork.com/thumbnails/crop900x350/video/category/579/key_art_11_eyes.jpg" group-title="11eyes" country="Japan",11eyes Episode 3
@@ -175,7 +175,7 @@ https://storage.kanzaki.ru/ANIME___/11eyes/%5BJacobSwaggedUp%5D%2011eyes%20-%20O
 
 #EXTGRP:Anime
 #EXTINF:-1 tvg-name="One-Punch Man" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTg5DK6gZyUdD5_NwgTiu0xeonXgOQRF6BXZ_eC7n_4mAdWRZ7Ogd0cGQk&s=10" group-title="Anime" country="Japan" subtitle="https://raw.githubusercontent.com/luciefers-Angel/MyIpTV/main/One%20Punch%20Man%20-%2001%20%5B720p%5D%5BEngSub%5D-eng-ceb.vtt",One-Punch Man 1
-https://storage.kanzaki.ru/ANIME___/One-Punch_Man/[HorribleSubs] One-Punch Man - 01 [720p].mkv
+https://storage.kanzaki.ru/ANIME___/11eyes/%5BJacobSwaggedUp%5D%2011eyes%20-%2001%20%28BD%201280x720%29.mp4
 
 #EXTINF:-1 tvg-name="One-Punch Man" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTg5DK6gZyUdD5_NwgTiu0xeonXgOQRF6BXZ_eC7n_4mAdWRZ7Ogd0cGQk&s=10" group-title="Anime" country="Japan",One-Punch Man 1
 https://storage.kanzaki.ru/ANIME___/One-Punch_Man/[HorribleSubs] One-Punch Man - 02 [720p].mkv
