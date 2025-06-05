@@ -8,6 +8,10 @@ http://www.djnutte.com/movies/Appleseed%20(DIVX).m3u8
 http://www.djnutte.com/movies/Appleseed%20(DIVX).mp4
 
 #EXTGRP:Anime
+#EXTINF:-1 tvg-name="Fagmmmu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="FCS" video-type="Ronald" country="Bohol",Fagmmmu
+http://www.djnutte.com/movies/Appleseed%20(DIVX).avi
+
+#EXTGRP:Anime
 #EXTINF:-1 tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Anime" video-type="Series" country="Cagayan de Oro",Animax
 http://www.djnutte.com/movies/Appleseed%20(DIVX).avi
 
