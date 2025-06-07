@@ -1,196 +1,357 @@
 {
-  "liveTv": [
-    {
-      "id": 1,
-      "title": "Entertainment TV",
-      "category": "Entertainment",
-      "thumbnail": "https://image.tmdb.org/t/p/original/9dKCd55IuTT5QRs989m9Qlb7d2B.jpg",
-      "streamUrl": "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_5.m3u8"
-    },
-    {
-      "id": 2,
-      "title": "Shopping Network",
-      "category": "Shop",
-      "thumbnail": "https://image.tmdb.org/t/p/original/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
-      "streamUrl": "https://example.com/live/shopping.m3u8"
-    },
-    {
-      "id": 3,
-      "title": "Kapamilya Network",
-      "category": "ABS-CBN",
-      "thumbnail": "https://static.wikia.nocookie.net/the-dramas/images/8/84/Kapamilya_Channel_logo.jpg/revision/latest?cb=20240429021457",
-      "streamUrl": "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_5.m3u8"
-    },
-    {
-      "id": 4,
-      "title": "Sports Channel",
-      "category": "Sports",
-      "thumbnail": "https://image.tmdb.org/t/p/original/6P3c80EOm7BodndGBUAJHHsHKrp.jpg",
-      "streamUrl": "https://example.com/live/sports.m3u8"
-    }
-  ],
-  "seriesCategories": [
-    {
-      "id": 1,
-      "name": "Anime Series",
-      "icon": "fa-dragon",
-      "series": [
-        {
-          "id": 101,
-          "title": "One Punch Man",
-          "year": 2015,
-          "episodes": 24,
-          "thumbnail": "https://image.tmdb.org/t/p/original/iE3s0lG5QVdEHOEZnoAxjmMtvne.jpg",
-          "description": "The story of Saitama, a hero that does it just for fun & can defeat his opponents with a single punch.",
-          "episodes": [
-            {
-              "id": 10101,
-              "title": "The Strongest Man",
-              "episodeNumber": 1,
-              "thumbnail": "https://image.tmdb.org/t/p/original/qx9uA0MYn2QhK5NvRibWqK0v5iL.jpg",
-              "streamUrl": "https://storage.kanzaki.ru/ANIME___/One-Punch_Man/%5BHorribleSubs%5D%20One-Punch%20Man%20-%2001%20%5B720p%5D.mkv"
-            },
-            {
-              "id": 10102,
-              "title": "The Cyborg Scientist",
-              "episodeNumber": 2,
-              "thumbnail": "https://image.tmdb.org/t/p/original/5sFJxWqHXjYtLqLp7b6s7O2mX9b.jpg",
-              "streamUrl": "https://storage.kanzaki.ru/ANIME___/One-Punch_Man/%5BHorribleSubs%5D%20One-Punch%20Man%20-%2002%20%5B720p%5D.mkv"
-            }
-          ]
-        },
-        {
-          "id": 102,
-          "title": "Attack on Titan",
-          "year": 2013,
-          "episodes": 75,
-          "thumbnail": "https://image.tmdb.org/t/p/original/8C5gYahMFmzHKGNID8QrG5t25WU.jpg",
-          "description": "After his hometown is destroyed and his mother is killed, young Eren Jaeger vows to cleanse the earth of the giant humanoid Titans.",
-          "episodes": [
-            {
-              "id": 10201,
-              "title": "To You, 2,000 Years From Now",
-              "episodeNumber": 1,
-              "thumbnail": "https://image.tmdb.org/t/p/original/6xoxY82bfgVpOtUgeIo3wL1Jg8S.jpg",
-              "streamUrl": "https://example.com/stream/aot/ep1.mp4"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "name": "Chinese Series",
-      "icon": "fa-archway",
-      "series": [
-        {
-          "id": 201,
-          "title": "The Untamed",
-          "year": 2019,
-          "episodes": 50,
-          "thumbnail": "https://image.tmdb.org/t/p/original/p7GqOZbVsqJw8x1X6YVbN6FqHcT.jpg",
-          "description": "Two talented disciples of a noble clan cross paths again 16 years after a tragic incident.",
-          "episodes": [
-            {
-              "id": 20101,
-              "title": "Prologue",
-              "episodeNumber": 1,
-              "thumbnail": "https://image.tmdb.org/t/p/original/jU9LrX0Kq9XKd8Yv8W7zQ8pQf7d.jpg",
-              "streamUrl": "https://example.com/stream/untamed/ep1.mp4"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Korean Series",
-      "icon": "fa-heart",
-      "series": [
-        {
-          "id": 301,
-          "title": "Squid Game",
-          "year": 2021,
-          "episodes": 9,
-          "thumbnail": "https://image.tmdb.org/t/p/original/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg",
-          "description": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games.",
-          "episodes": [
-            {
-              "id": 30101,
-              "title": "Red Light, Green Light",
-              "episodeNumber": 1,
-              "thumbnail": "https://image.tmdb.org/t/p/original/6Od3eoguWwZ0mQS7hZ1q0yIxBUu.jpg",
-              "streamUrl": "https://example.com/stream/squidgame/ep1.mp4"
-            }
-          ]
-        }
-      ]
-    }
-  ],
-  "movieCategories": [
-    {
-      "id": 1,
-      "name": "Hollywood",
-      "icon": "fa-landmark",
-      "movies": [
-        {
-          "id": 1001,
-          "title": "Spider-Man: No Way Home",
-          "year": 2021,
-          "duration": "2h 28m",
-          "thumbnail": "https://image.tmdb.org/t/p/original/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
-          "streamUrl": "https://example.com/stream/spiderman.mp4",
-          "description": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear."
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "name": "Chinese Movies",
-      "icon": "fa-archway",
-      "movies": [
-        {
-          "id": 2001,
-          "title": "The Farewell",
-          "year": 2019,
-          "duration": "1h 40m",
-          "thumbnail": "https://image.tmdb.org/t/p/original/x2IqsMlYuOhZ8zQ7FzUcdDlCW7M.jpg",
-          "streamUrl": "https://example.com/stream/farewell.mp4",
-          "description": "A Chinese family discovers their grandmother has only a short while left to live and decide to keep her in the dark."
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Korean Movies",
-      "icon": "fa-heart",
-      "movies": [
-        {
-          "id": 3001,
-          "title": "Parasite",
-          "year": 2019,
-          "duration": "2h 12m",
-          "thumbnail": "https://image.tmdb.org/t/p/original/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
-          "streamUrl": "https://example.com/stream/parasite.mp4",
-          "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan."
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "name": "Anime Full Movies",
-      "icon": "fa-dragon",
-      "movies": [
-        {
-          "id": 4001,
-          "title": "Your Name",
-          "year": 2016,
-          "duration": "1h 46m",
-          "thumbnail": "https://image.tmdb.org/t/p/original/q719jXXEzOoYaps6babgKnONONX.jpg",
-          "streamUrl": "https://example.com/stream/yourname.mp4",
-          "description": "Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?"
-        }
-      ]
-    }
-  ]
+  "liveTv": {
+    "all": [
+      {
+        "id": "tv1",
+        "title": "OShopping Live",
+        "description": "24/7 Shopping Channel",
+        "year": "Live",
+        "rating": "TV-G",
+        "category": "shop",
+        "backdrop": "https://via.placeholder.com/800x450?text=OShopping+Live",
+        "poster": "https://via.placeholder.com/300x450?text=OShopping+Live",
+        "servers": [
+          {
+            "name": "Stream Link 1",
+            "url": "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_5.m3u8"
+          },
+          {
+            "name": "Stream Link 2",
+            "url": "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_5.m3u8"
+          }
+        ]
+      },
+      {
+        "id": "tv2",
+        "title": "Entertainment Channel",
+        "description": "Latest entertainment news and shows",
+        "year": "Live",
+        "rating": "TV-14",
+        "category": "entertainment",
+        "backdrop": "https://via.placeholder.com/800x450?text=Entertainment+Channel",
+        "poster": "https://via.placeholder.com/300x450?text=Entertainment+Channel",
+        "servers": [
+          {
+            "name": "Primary Stream",
+            "url": "https://example.com/entertainment.m3u8"
+          }
+        ]
+      },
+      {
+        "id": "tv3",
+        "title": "Sports Network",
+        "description": "Live sports events and analysis",
+        "year": "Live",
+        "rating": "TV-PG",
+        "category": "sports",
+        "backdrop": "https://via.placeholder.com/800x450?text=Sports+Network",
+        "poster": "https://via.placeholder.com/300x450?text=Sports+Network",
+        "servers": [
+          {
+            "name": "HD Stream",
+            "url": "https://example.com/sports.m3u8"
+          }
+        ]
+      }
+    ],
+    "shop": [
+      {
+        "id": "tv1",
+        "title": "OShopping Live",
+        "description": "24/7 Shopping Channel",
+        "year": "Live",
+        "rating": "TV-G",
+        "category": "shop",
+        "backdrop": "https://via.placeholder.com/800x450?text=OShopping+Live",
+        "poster": "https://via.placeholder.com/300x450?text=OShopping+Live",
+        "servers": [
+          {
+            "name": "Stream Link 1",
+            "url": "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_5.m3u8"
+          },
+          {
+            "name": "Stream Link 2",
+            "url": "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_5.m3u8"
+          }
+        ]
+      }
+    ],
+    "entertainment": [
+      {
+        "id": "tv2",
+        "title": "Entertainment Channel",
+        "description": "Latest entertainment news and shows",
+        "year": "Live",
+        "rating": "TV-14",
+        "category": "entertainment",
+        "backdrop": "https://via.placeholder.com/800x450?text=Entertainment+Channel",
+        "poster": "https://via.placeholder.com/300x450?text=Entertainment+Channel",
+        "servers": [
+          {
+            "name": "Primary Stream",
+            "url": "https://example.com/entertainment.m3u8"
+          }
+        ]
+      }
+    ],
+    "sports": [
+      {
+        "id": "tv3",
+        "title": "Sports Network",
+        "description": "Live sports events and analysis",
+        "year": "Live",
+        "rating": "TV-PG",
+        "category": "sports",
+        "backdrop": "https://via.placeholder.com/800x450?text=Sports+Network",
+        "poster": "https://via.placeholder.com/300x450?text=Sports+Network",
+        "servers": [
+          {
+            "name": "HD Stream",
+            "url": "https://example.com/sports.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  "series": {
+    "all": [
+      {
+        "id": "s1",
+        "tmdb_id": 63056,
+        "title": "One Punch Man",
+        "description": "The story of Saitama, a hero who can defeat any opponent with a single punch.",
+        "year": "2015",
+        "rating": "8.7",
+        "category": "anime",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/iExD7f8q3UgWrQqYHEDYqQzZkXp.jpg",
+        "poster": "https://image.tmdb.org/t/p/w300/3Zx8e9bpl9yDqaqbqvVoXqXSoMd.jpg",
+        "seasons": [
+          {
+            "season_number": 1,
+            "episodes": [
+              {
+                "episode_number": 1,
+                "title": "The Strongest Man",
+                "description": "Saitama explains how he trained to become a superhero.",
+                "servers": [
+                  {
+                    "name": "Server 1",
+                    "url": "https://storage.kanzaki.ru/ANIME___/One-Punch_Man/%5BHorribleSubs%5D%20One-Punch%20Man%20-%2001%20%5B720p%5D.mkv"
+                  },
+                  {
+                    "name": "Server 2",
+                    "url": "https://storage.kanzaki.ru/ANIME___/One-Punch_Man/%5BHorribleSubs%5D%20One-Punch%20Man%20-%2001%20%5B720p%5D.mkv"
+                  }
+                ]
+              },
+              {
+                "episode_number": 2,
+                "title": "The Lone Cyborg",
+                "description": "Genos becomes Saitama's disciple after witnessing his power.",
+                "servers": [
+                  {
+                    "name": "Server 1",
+                    "url": "https://storage.kanzaki.ru/ANIME___/One-Punch_Man/%5BHorribleSubs%5D%20One-Punch%20Man%20-%2002%20%5B720p%5D.mkv"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "season_number": 2,
+            "episodes": [
+              {
+                "episode_number": 1,
+                "title": "The Hero's Return",
+                "description": "Saitama returns to find his reputation in shambles.",
+                "servers": [
+                  {
+                    "name": "Server 1",
+                    "url": "https://example.com/opm_s2e1.mkv"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "s2",
+        "tmdb_id": 1622,
+        "title": "Supernatural",
+        "description": "Two brothers follow their father's footsteps as hunters, fighting evil supernatural beings.",
+        "year": "2005",
+        "rating": "8.4",
+        "category": "hollywood",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/ovM06PdF3M8wvKb06i4sjW3xoww.jpg",
+        "poster": "https://image.tmdb.org/t/p/w300/KoYWXbnYuS3b0GyQPkbuexlVK9.jpg",
+        "seasons": [
+          {
+            "season_number": 1,
+            "episodes": [
+              {
+                "episode_number": 1,
+                "title": "Pilot",
+                "description": "Sam and Dean reunite when their father goes missing.",
+                "servers": [
+                  {
+                    "name": "Server 1",
+                    "url": "https://example.com/sn_s1e1.mkv"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "anime": [
+      {
+        "id": "s1",
+        "tmdb_id": 63056,
+        "title": "One Punch Man",
+        "description": "The story of Saitama, a hero who can defeat any opponent with a single punch.",
+        "year": "2015",
+        "rating": "8.7",
+        "category": "anime",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/iExD7f8q3UgWrQqYHEDYqQzZkXp.jpg",
+        "poster": "https://image.tmdb.org/t/p/w300/3Zx8e9bpl9yDqaqbqvVoXqXSoMd.jpg",
+        "seasons": [
+          {
+            "season_number": 1,
+            "episodes": [
+              {
+                "episode_number": 1,
+                "title": "The Strongest Man",
+                "description": "Saitama explains how he trained to become a superhero.",
+                "servers": [
+                  {
+                    "name": "Server 1",
+                    "url": "https://storage.kanzaki.ru/ANIME___/One-Punch_Man/%5BHorribleSubs%5D%20One-Punch%20Man%20-%2001%20%5B720p%5D.mkv"
+                  },
+                  {
+                    "name": "Server 2",
+                    "url": "https://storage.kanzaki.ru/ANIME___/One-Punch_Man/%5BHorribleSubs%5D%20One-Punch%20Man%20-%2001%20%5B720p%5D.mkv"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "hollywood": [
+      {
+        "id": "s2",
+        "tmdb_id": 1622,
+        "title": "Supernatural",
+        "description": "Two brothers follow their father's footsteps as hunters, fighting evil supernatural beings.",
+        "year": "2005",
+        "rating": "8.4",
+        "category": "hollywood",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/ovM06PdF3M8wvKb06i4sjW3xoww.jpg",
+        "poster": "https://image.tmdb.org/t/p/w300/KoYWXbnYuS3b0GyQPkbuexlVK9.jpg",
+        "seasons": [
+          {
+            "season_number": 1,
+            "episodes": [
+              {
+                "episode_number": 1,
+                "title": "Pilot",
+                "description": "Sam and Dean reunite when their father goes missing.",
+                "servers": [
+                  {
+                    "name": "Server 1",
+                    "url": "https://example.com/sn_s1e1.mkv"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "movies": {
+    "all": [
+      {
+        "id": "m1",
+        "tmdb_id": 420818,
+        "title": "The Lion King",
+        "description": "Simba idolizes his father, King Mufasa, and takes to heart his own royal destiny.",
+        "year": "2019",
+        "rating": "7.1",
+        "category": "hollywood",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/1TUg5pO1VZ4B0Q1amk3OlXvlpXV.jpg",
+        "poster": "https://image.tmdb.org/t/p/w300/2bXbqYdUdNVa8VIWXVfclP2ICtT.jpg",
+        "servers": [
+          {
+            "name": "Stream Link 1",
+            "url": "https://dl.filmvision.ir/film/The.Lion.King.2019.720p.Farsi.Dubbed-www.iranidata.com.mkv"
+          },
+          {
+            "name": "Stream Link 2",
+            "url": "https://dl.filmvision.ir/film/The.Lion.King.2019.720p.Farsi.Dubbed-www.iranidata.com.mp4"
+          }
+        ]
+      },
+      {
+        "id": "m2",
+        "tmdb_id": 475557,
+        "title": "Joker",
+        "description": "A mentally troubled stand-up comedian embarks on a downward spiral.",
+        "year": "2019",
+        "rating": "8.4",
+        "category": "hollywood",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg",
+        "poster": "https://image.tmdb.org/t/p/w300/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+        "servers": [
+          {
+            "name": "HD Stream",
+            "url": "https://example.com/joker.mkv"
+          }
+        ]
+      }
+    ],
+    "hollywood": [
+      {
+        "id": "m1",
+        "tmdb_id": 420818,
+        "title": "The Lion King",
+        "description": "Simba idolizes his father, King Mufasa, and takes to heart his own royal destiny.",
+        "year": "2019",
+        "rating": "7.1",
+        "category": "hollywood",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/1TUg5pO1VZ4B0Q1amk3OlXvlpXV.jpg",
+        "poster": "https://image.tmdb.org/t/p/w300/2bXbqYdUdNVa8VIWXVfclP2ICtT.jpg",
+        "servers": [
+          {
+            "name": "Stream Link 1",
+            "url": "https://dl.filmvision.ir/film/The.Lion.King.2019.720p.Farsi.Dubbed-www.iranidata.com.mkv"
+          },
+          {
+            "name": "Stream Link 2",
+            "url": "https://dl.filmvision.ir/film/The.Lion.King.2019.720p.Farsi.Dubbed-www.iranidata.com.mp4"
+          }
+        ]
+      },
+      {
+        "id": "m2",
+        "tmdb_id": 475557,
+        "title": "Joker",
+        "description": "A mentally troubled stand-up comedian embarks on a downward spiral.",
+        "year": "2019",
+        "rating": "8.4",
+        "category": "hollywood",
+        "backdrop": "https://image.tmdb.org/t/p/w1280/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg",
+        "poster": "https://image.tmdb.org/t/p/w300/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+        "servers": [
+          {
+            "name": "HD Stream",
+            "url": "https://example.com/joker.mkv"
+          }
+        ]
+      }
+    ]
+  }
 }
