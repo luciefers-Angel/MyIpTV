@@ -76,9 +76,31 @@
         ]
       }
     ],
-    "entertainment": [
+    "anime": [
       {
         "id": "tv2",
+        "title": "Anime All Day",
+        "description": "24/7 Anime",
+        "year": "Live",
+        "rating": "TV-G",
+        "category": "anime",
+        "backdrop": "https://via.placeholder.com/800x450?text=OShopping+Live",
+        "poster": "https://via.placeholder.com/300x450?text=OShopping+Live",
+        "servers": [
+          {
+            "name": "Stream Link 1",
+            "url": "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_5.m3u8"
+          },
+          {
+            "name": "Stream Link 2",
+            "url": "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_5.m3u8"
+          }
+        ]
+      }
+    ],
+    "entertainment": [
+      {
+        "id": "tv3",
         "title": "Entertainment Channel",
         "description": "Latest entertainment news and shows",
         "year": "Live",
@@ -96,7 +118,7 @@
     ],
     "sports": [
       {
-        "id": "tv3",
+        "id": "tv4",
         "title": "Sports Network",
         "description": "Live sports events and analysis",
         "year": "Live",
