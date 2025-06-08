@@ -283,7 +283,7 @@ Season="4"
 Episode="16" 
 Title="Attack on Titan Final Season" 
 #EXT-X-STREAM-INF:SUBTITLES="https://example.com/aot_subtitles_en.vtt"
-https://example.com/aot_stream1.mp4
+https://storage.kanzaki.ru/ANIME___/11eyes/%5BJacobSwaggedUp%5D%2011eyes%20-%2001%20%28BD%201280x720%29.mp4
 #EXT-X-STREAM-INF:SUBTITLES="https://example.com/aot_subtitles_jp.vtt"
 https://example.com/aot_stream2.mp4
 
@@ -349,7 +349,7 @@ https://example.com/ds_stream2.mp4
 #EXTINF:-1 tvg-name="One-Punch Man" tvg-logo="https://image.tmdb.org/t/p/w500/iE3s0lG5QVdEHOEZnoAxjmMtvne.jpg" group-title="Anime" country="Japan" video-type="Series" Season="1" Episode="1" Title="One-Punch Man Episode 1"
 https://example.com/onepunchman_ep1_stream1.mp4
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_5.m3u8
-https://example.com/onepunchman_ep1_stream3.mp4
+https://storage.kanzaki.ru/ANIME___/11eyes/%5BJacobSwaggedUp%5D%2011eyes%20-%2001%20%28BD%201280x720%29.mp4
 #EXTXSUB:https://example.com/subtitles/onepunchman_ep1_en.vtt
 #EXTXSUB:https://example.com/subtitles/onepunchman_ep1_es.srt
 
