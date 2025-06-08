@@ -1,0 +1,261 @@
+#EXTM3U
+
+#EXTGRP:Anime
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="KengKoy" video-type="Kartin" country="Bonbon",Animax
+https://albportal.net/albkanalemusic.m3u8
+http://www.djnutte.com/movies/Appleseed%20(DIVX).mkv
+http://www.djnutte.com/movies/Appleseed%20(DIVX).m3u8
+http://www.djnutte.com/movies/Appleseed%20(DIVX).mp4
+
+#EXTGRP:Anime
+#EXTINF:-1 tvg-name="CNA" tvg-logo="https://i.imgur.com/X3ukD5t.png" group-title="News" video-type="Live" country="Albania",CNA Albania
+https://live1.mediadesk.al/cnatvlive.m3u8
+
+#EXTGRP:Anime
+#EXTINF:-1 tvg-name="Euronews Albania Ⓨ" tvg-logo="https://i.imgur.com/Skf6vdi.png" group-title="News" video-type="Youtube" country="Albania",Euronews Albania Ⓨ
+https://www.youtube.com/@EuronewsAlbania/live
+
+#EXTGRP:Anime
+#EXTINF:-1 tvg-name="Google Drive Sample" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Google Deive" country="China🇹🇷",Google Drive Sample
+https://drive.google.com/file/d/12dLREacoiTlZvESEKfx4V28S3X4vLIha/view
+
+#EXTGRP:Movies
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://i0.wp.com/news.japanim.com/wp-content/uploads/2024/02/cropped-japanim-logo.png?fit=512%2C225&ssl=1" group-title="Movies" country="Mexico",Google Drive Sample
+https://foxkidstv.be:3369/stream/play.mkv
+
+#EXTGRP:RatedX Movie
+#EXTINF:-1 tvg-name="RatedX Movie Sample" tvg-logo="https://i0.wp.com/news.japanim.com/wp-content/uploads/2024/02/cropped-japanim-logo.png?fit=512%2C225&ssl=1" group-title="RatedX Movie" country="Mindanao",RatedX Movie Sample
+https://foxkidstv.be:3369/stream/play.avi
+
+#EXTGRP:Tagalog Movie
+#EXTINF:-1 tvg-name="Tagalog Movie Sample" tvg-logo="https://i0.wp.com/news.japanim.com/wp-content/uploads/2024/02/cropped-japanim-logo.png?fit=512%2C225&ssl=1" group-title="Tagalog Movie" country="Japan",Tagalog Movie Sample
+https://foxkidstv.be:3369/stream/play.3gp
+
+#EXTGRP:TV Shows
+#EXTINF:-1 tvg-name="TV Shows Sample" tvg-logo="https://i0.wp.com/news.japanim.com/wp-content/uploads/2024/02/cropped-japanim-logo.png?fit=512%2C225&ssl=1" group-title="TV Shows" country="Dubai",TV Shows Sample
+https://foxkidstv.be:3369/stream/play.flv
+
+#EXTGRP:Family
+#EXTINF:-1 tvg-name="Japanim TV" tvg-logo="https://i0.wp.com/news.japanim.com/wp-content/uploads/2024/02/cropped-japanim-logo.png?fit=512%2C225&ssl=1" group-title="Family" country="Japan",Japanim TV
+https://foxkidstv.be:3369/stream/play.m3u8
+
+#EXTGRP:Family
+#EXTINF:-1 tvg-name="TV5 Monde Asia (Asie) (1080p)" tvg-logo="https://apac.tv5monde.com/assets/mobile-app/mobile-app-icon-new.png" group-title="Family" country="Philippines",TV5 Monde Asia (Asie) (1080p)
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+
+#EXTGRP:Religious
+#EXTINF:-1 tvg-name="EWTN Africa Asia" tvg-logo="https://www.ewtn.com/assets/ewtn-badge-4f156d7cd046dd20f7902ec63dd3e1e6892effb9130c634b1fcd868a3a43a05f.jpg" group-title="Religious" country="Philippines",EWTN Africa Asia
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+
+#EXTGRP:Religious
+#EXTINF:-1 tvg-name="INC TV" tvg-logo="https://i.imgur.com/JGSLqA6.png" group-title="Religious" country="Philippines",INC TV
+https://stream-199211.castr.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/tracks-v1a1/rewind-7200.ts.m3u8
+
+#EXTGRP:General
+#EXTINF:-1 tvg-name="Mindanow Network TV" tvg-logo="https://i.imgur.com/xBlYirh.jpeg" group-title="General" country="Philippines",Mindanow Network TV
+https://streams1.comclark.com/overlay/mindanow/chunks.m3u8?nimblesessionid=31403
+
+#EXTGRP:General
+#EXTINF:-1 tvg-name="DZBB-DT1" tvg-logo="https://i.imgur.com/5GXTkZx.png" group-title="General" country="Philippines",DZBB-DT1
+https://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=174487769
+
+#EXTGRP:General
+#EXTINF:-1 tvg-name="CLTV 36" tvg-logo="https://i.imgur.com/IUcTFQ2.png" group-title="General" country="Philippines",Great Commission TV
+https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
+
+#EXTGRP:General
+#EXTINF:-1 tvg-name="A2Z" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="General" country="Philippines",A2Z
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_5.m3u8
+
+#EXTGRP:Family
+#EXTINF:-1 tvg-name="Great Commission TV" tvg-logo="https://i.imgur.com/8cvikOo.png" group-title="Family" country="Philippines",Great Commission TV
+http://45.32.115.103/live/livestream/index.m3u8
+
+#EXTGRP:KIDS
+#EXTINF:-1 tvg-name="3ABN Kids" tvg-logo="https://i.imgur.com/SUPQAok.png" group-title="KIDS" country="United States",3ABN Kids
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/chunklist_w660912203_b2328000_slen.m3u8?nimblesessionid=248888221
+
+#EXTGRP:Anime
+#EXTINF:-1 tvg-name="Alan Becker TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSk8jLwTPTZ9tnSWr0coUk1-VJLYQCi2muftdUyHw=s100-c-k-c0x00ffffff-no-rj" group-title="Anime" country="United States",Alan Becker TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/630348a54c48ce00077eb6c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ca065-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c5b43dd2-234d-4338-9a94-c40967ccbed6
+
+#EXTGRP:Anime
+#EXTINF:-1 tvg-name="Anime All Day" tvg-logo="https://i.imgur.com/bYZtd0G.png" group-title="Anime" country="United States",Anime All Day
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/3321280/playlist.m3u8?terminate=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356&deviceDNT=0&deviceModel=web&deviceVersion=unknown&appName=web&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&appVersion=unknown&deviceType=web&deviceMake=Chrome&clientTime=0&includeExtendedEvents=false&serverSideAds=false
+
+#EXTGRP:Anime
+#EXTINF:-1 tvg-name="Lupin the 3rd" tvg-logo="https://i.imgur.com/Wopu3y9.png" group-title="Anime" country="United States",Lupin the 3rd
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f74ba51c82ac000776c669/1577180/playlist.m3u8?terminate=false&sid=929f711f-6565-41d9-84a9-9f2c83d020e5&deviceDNT=0&deviceModel=web&deviceVersion=unknown&appName=web&deviceId=6c29b4c3-30d3-11ef-9cf5-e9ddff8ff496&appVersion=unknown&deviceType=web&deviceMake=Chrome&clientTime=0&includeExtendedEvents=false&serverSideAds=false
+
+#EXTGRP:Movie
+#EXTINF:-1 tvg-name="Movies for Gamers" tvg-logo="https://i.imgur.com/aqjzEkb.png" group-title="Movie" country="United States",Movies for Gamers
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6008ddf24ef92b00079d61cf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2f37e9d8-bdac-4d46-949d-ccfbf76dd6e0
+
+#EXTGRP:Anime
+#EXTINF:-1 tvg-name="Naruto" tvg-logo="https://i.imgur.com/M8X3Kvc.png" group-title="Anime" country="United States",Naruto
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/2294080/playlist.m3u8?terminate=false&sid=bbd39836-427d-4099-82bb-28b34f88aa35&deviceDNT=0&deviceModel=web&deviceVersion=unknown&appName=web&deviceId=6c2a29f8-30d3-11ef-9cf5-e9ddff8ff496&appVersion=unknown&deviceType=web&deviceMake=Chrome&clientTime=0&includeExtendedEvents=false&serverSideAds=false
+
+#EXTGRP:Anime
+#EXTINF:-1 tvg-name="One Piece" tvg-logo="https://i.imgur.com/XsvbAWR.png" group-title="Anime" country="United States",One Piece
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f7790b3ed0c88000720b241/2294080/playlist.m3u8?terminate=false&sid=4b38ba42-6f97-4a17-b657-1277978d366c&deviceDNT=0&deviceModel=web&deviceVersion=unknown&appName=web&deviceId=6c2a7816-30d3-11ef-9cf5-e9ddff8ff496&appVersion=unknown&deviceType=web&deviceMake=Chrome&clientTime=0&includeExtendedEvents=false&serverSideAds=false
+
+#EXTGRP:Anime
+#EXTINF:-1 tvg-name="South Park" tvg-logo="https://i.imgur.com/qA3KsTh.png" group-title="Anime" country="United States",South Park
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb1c5e25122000798ac79/3321280/playlist.m3u8?terminate=false&sid=67f014c4-f66e-4860-a7d5-9e9de1cab501&deviceDNT=0&deviceModel=web&deviceVersion=unknown&appName=web&deviceId=2c7c0253-35fc-11ef-a031-2b5d494037a2&appVersion=unknown&deviceType=web&deviceMake=Chrome&clientTime=0&includeExtendedEvents=false&serverSideAds=false
+
+#EXTGRP:Anime
+#EXTINF:-1 tvg-name="Toonami Aftermath" tvg-logo="https://i.imgur.com/aSjhZK7.png" group-title="Anime" country="United States",Toonami Aftermath
+http://asp6.toonamiaftermath.com:1934/livehttporigin/est/czmKR2-9IeYQ0-chunklist.m3u8
+
+#EXTGRP:Anime
+#EXTINF:-1 tvg-name="Yu-Gi-Oh" tvg-logo="https://i.imgur.com/Tl6aW2u.png" group-title="Anime" country="United States",Yu-Gi-Oh
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4ec10ed9636f00089b8c89/2294080/playlist.m3u8?terminate=false&sid=31531314-3e7f-4788-8c4f-f153a43ee0a0&deviceDNT=0&deviceModel=web&deviceVersion=unknown&appName=web&deviceId=6c2d3738-30d3-11ef-9cf5-e9ddff8ff496&appVersion=unknown&deviceType=web&deviceMake=Chrome&clientTime=0&includeExtendedEvents=false&serverSideAds=false
+
+#EXTGRP:Series
+#EXTINF:-1 tvg-name="BEAM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfyreY3Iy2I_boyAavNAqlhBWVVggFOJCDqA&usqp=CAU" group-title="Series" country="United States",BEAM TV
+http://vod.simpletv.eu/media/storage/Teletubbies_2016/1.mp4
+
+#EXTGRP:News
+#EXTINF:-1 tvg-name="CNN Philippines" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/1200px-CNN_Philippines_Logo.svg.png" group-title="News" country="Philippines",CNN Philippines
+https://dl.animesp.xyz/Winter%202022/Orient/720/%5B01%20-%20Orient%5D%20%5B720p%5D%20%5BSub%5D%20%40Anime_Twitte%20.mkv
+
+#EXTGRP:Anime
+#EXTINF:-1 tvg-name="SMNI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/SMNI39.jpg" group-title="Anime" country="United States",SMNI
+http://dl6.doostihaa.com/Animation/2000/J/Jackie%20Chan%20Adventures%20%282000-2005%29/Season%201%20%282000-01%29/Jackie%20Chan%20Adventures%20-%20S01%20E13%20-%20Day%20of%20the%20Dragon%20%28480p%20-%20Web-DL%29.mp4%20-%20S01%20E13%20-%20Day%20of%20the%20Dragon%20%28480p%20-%20Web-DL%29.srt
+
+#EXTGRP:News
+#EXTINF:-1 tvg-name="Aaj Tak News" tvg-logo="https://www.sabinchaudhary.com.np/LiveTv/Ajtak.png" group-title="News" country="India",Aaj Tak News
+https://feeds.intoday.in/aajtak/api/master.m3u8
+
+#EXTGRP:News
+#EXTINF:-1 tvg-name="India Tv" tvg-logo="https://www.sabinchaudhary.com.np/LiveTv/indiatv.png" group-title="News" country="India",India Tv
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8
+
+#EXTGRP:News
+#EXTINF:-1 tvg-name="1st India" tvg-logo="https://www.sabinchaudhary.com.np/LiveTv/1india.jpg" group-title="News" country="India",1st India
+https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
+
+#EXTGRP:News
+#EXTINF:-1 tvg-name="Nat Geo People" tvg-logo="https://www.sabinchaudhary.com.np/LiveTv/news24.jpg" group-title="News" country="India",Nat Geo People
+https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+
+#EXTGRP:News
+#EXTINF:-1 tvg-name="News 24 India" tvg-logo="https://www.sabinchaudhary.com.np/LiveTv/news24.jpg" group-title="News" country="India",News 24 India
+https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+
+#EXTGRP:Series
+#EXTINF:-1 tvg-name="Bridgerton Season 2 Episode 1" tvg-logo="https://www.sabinchaudhary.com.np/LiveTv/news24.jpg" group-title="Series" country="United States",Bridgerton Season 2 Episode 1
+http://dl6.sermovie.xyz/Series/2021/Bridgerton/S02/720p.10bit/Bridgerton.S02E01.720p.10bit.WEBRip.2CH.x265.HEVC-PSA.Sermovie.mkv
+
+#EXTGRP:Movies
+#EXTINF:-1 tvg-name="Movies" tvg-logo="https://www.sabinchaudhary.com.np/LiveTv/news24.jpg" group-title="Movies" country="United States",Movies
+https://m3u.haiwaikan.com/xm3u8/a0318cf5a51a8c66d42a81d5569668ad3feb519cdda11b52bc11ead7b613cd2b9921f11e97d0da21.m3u8
+
+#EXTGRP:Music
+#EXTINF:-1 tvg-name="B4U Music" tvg-logo="https://www.sabinchaudhary.com.np/LiveTv/news24.jpg" group-title="Music" country="India",B4U Music
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+
+#EXTGRP:11eyes
+#EXTINF:-1 tvg-name="11eyes Episode 1" tvg-logo="https://cdn.animenewsnetwork.com/thumbnails/crop900x350/video/category/579/key_art_11_eyes.jpg" group-title="11eyes" country="Japan",11eyes Episode 1
+https://storage.kanzaki.ru/ANIME___/11eyes/%5BJacobSwaggedUp%5D%2011eyes%20-%2001%20%28BD%201280x720%29.mp4
+#EXTINF:-1 tvg-name="11eyes Episode 2" tvg-logo="https://cdn.animenewsnetwork.com/thumbnails/crop900x350/video/category/579/key_art_11_eyes.jpg" group-title="11eyes" country="Japan",11eyes Episode 2
+https://storage.kanzaki.ru/ANIME___/11eyes/%5BJacobSwaggedUp%5D%2011eyes%20-%2002%20%28BD%201280x720%29.mp4
+#EXTINF:-1 tvg-name="11eyes Episode 3" tvg-logo="https://cdn.animenewsnetwork.com/thumbnails/crop900x350/video/category/579/key_art_11_eyes.jpg" group-title="11eyes" country="Japan",11eyes Episode 3
+https://storage.kanzaki.ru/ANIME___/11eyes/%5BJacobSwaggedUp%5D%2011eyes%20-%2003%20%28BD%201280x720%29.mp4
+#EXTINF:-1 tvg-name="11eyes Episode 4" tvg-logo="https://cdn.animenewsnetwork.com/thumbnails/crop900x350/video/category/579/key_art_11_eyes.jpg" group-title="11eyes" country="Japan",11eyes Episode 4
+https://storage.kanzaki.ru/ANIME___/11eyes/%5BJacobSwaggedUp%5D%2011eyes%20-%2004%20%28BD%201280x720%29.mp4
+#EXTINF:-1 tvg-name="11eyes Episode 5" tvg-logo="https://cdn.animenewsnetwork.com/thumbnails/crop900x350/video/category/579/key_art_11_eyes.jpg" group-title="11eyes" country="Japan",11eyes Episode 5
+https://storage.kanzaki.ru/ANIME___/11eyes/%5BJacobSwaggedUp%5D%2011eyes%20-%2005%20%28BD%201280x720%29.mp4
+#EXTINF:-1 tvg-name="11eyes Episode 6" tvg-logo="https://cdn.animenewsnetwork.com/thumbnails/crop900x350/video/category/579/key_art_11_eyes.jpg" group-title="11eyes" country="Japan",11eyes Episode 6
+https://storage.kanzaki.ru/ANIME___/11eyes/%5BJacobSwaggedUp%5D%2011eyes%20-%2006%20%28BD%201280x720%29.mp4
+#EXTINF:-1 tvg-name="11eyes Episode 7" tvg-logo="https://cdn.animenewsnetwork.com/thumbnails/crop900x350/video/category/579/key_art_11_eyes.jpg" group-title="11eyes" country="Japan",11eyes Episode 7
+https://storage.kanzaki.ru/ANIME___/11eyes/%5BJacobSwaggedUp%5D%2011eyes%20-%2007%20%28BD%201280x720%29.mp4
+#EXTINF:-1 tvg-name="11eyes Episode 8" tvg-logo="https://cdn.animenewsnetwork.com/thumbnails/crop900x350/video/category/579/key_art_11_eyes.jpg" group-title="11eyes" country="Japan",11eyes Episode 8
+https://storage.kanzaki.ru/ANIME___/11eyes/%5BJacobSwaggedUp%5D%2011eyes%20-%2008%20%28BD%201280x720%29.mp4
+#EXTINF:-1 tvg-name="11eyes Episode 9" tvg-logo="https://cdn.animenewsnetwork.com/thumbnails/crop900x350/video/category/579/key_art_11_eyes.jpg" group-title="11eyes" country="Japan",11eyes Episode 9
+https://storage.kanzaki.ru/ANIME___/11eyes/%5BJacobSwaggedUp%5D%2011eyes%20-%2009%20%28BD%201280x720%29.mp4
+#EXTINF:-1 tvg-name="11eyes Episode 10" tvg-logo="https://cdn.animenewsnetwork.com/thumbnails/crop900x350/video/category/579/key_art_11_eyes.jpg" group-title="11eyes" country="Japan",11eyes Episode 10
+https://storage.kanzaki.ru/ANIME___/11eyes/%5BJacobSwaggedUp%5D%2011eyes%20-%2010%20%28BD%201280x720%29.mp4
+#EXTINF:-1 tvg-name="11eyes Episode 11" tvg-logo="https://cdn.animenewsnetwork.com/thumbnails/crop900x350/video/category/579/key_art_11_eyes.jpg" group-title="11eyes" country="Japan",11eyes Episode 11
+https://storage.kanzaki.ru/ANIME___/11eyes/%5BJacobSwaggedUp%5D%2011eyes%20-%2011%20%28BD%201280x720%29.mp4
+#EXTINF:-1 tvg-name="11eyes Episode 12" tvg-logo="https://cdn.animenewsnetwork.com/thumbnails/crop900x350/video/category/579/key_art_11_eyes.jpg" group-title="11eyes" country="Japan",11eyes Episode 12
+https://storage.kanzaki.ru/ANIME___/11eyes/%5BJacobSwaggedUp%5D%2011eyes%20-%2012%20%28BD%201280x720%29.mp4
+#EXTINF:-1 tvg-name="11eyes OVA" tvg-logo="https://cdn.animenewsnetwork.com/thumbnails/crop900x350/video/category/579/key_art_11_eyes.jpg" group-title="11eyes" country="Japan",11eyes OVA
+https://storage.kanzaki.ru/ANIME___/11eyes/%5BJacobSwaggedUp%5D%2011eyes%20-%20OVA%20%28BD%201280x720%29.mp4
+
+
+#EXTGRP:Anime
+#EXTINF:-1 tvg-name="One-Punch Man" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTg5DK6gZyUdD5_NwgTiu0xeonXgOQRF6BXZ_eC7n_4mAdWRZ7Ogd0cGQk&s=10" group-title="Anime" country="Japan" subtitle="https://raw.githubusercontent.com/luciefers-Angel/MyIpTV/main/One%20Punch%20Man%20-%2001%20%5B720p%5D%5BEngSub%5D-eng-ceb.vtt",One-Punch Man 1
+https://storage.kanzaki.ru/ANIME___/One-Punch_Man/[HorribleSubs] One-Punch Man - 01 [720p].3gp
+https://storage.kanzaki.ru/ANIME___/11eyes/%5BJacobSwaggedUp%5D%2011eyes%20-%2001%20%28BD%201280x720%29.mp4
+https://live1.mediadesk.al/cnatvlive.m3u8
+
+#EXTINF:-1 tvg-name="One-Punch Man" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTg5DK6gZyUdD5_NwgTiu0xeonXgOQRF6BXZ_eC7n_4mAdWRZ7Ogd0cGQk&s=10" group-title="Anime" country="Japan",One-Punch Man 1
+https://storage.kanzaki.ru/ANIME___/One-Punch_Man/[HorribleSubs] One-Punch Man - 02 [720p].mkv
+https://github.com/luciefers-Angel/MyIpTV/blob/main/One%20Punch%20Man%20-%2001%20%5B720p%5D%5BEngSub%5D-eng-ceb.vtt
+
+#EXTINF:-1 tvg-name="One-Punch Man" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTg5DK6gZyUdD5_NwgTiu0xeonXgOQRF6BXZ_eC7n_4mAdWRZ7Ogd0cGQk&s=10" group-title="Anime" country="Japan",One-Punch Man
+#EXT-X-STREAM-INF:SUBTITLES="subs3"
+https://storage.kanzaki.ru/ANIME___/One-Punch_Man/[HorribleSubs] One-Punch Man - 03 [720p].mkv
+#EXT-X-STREAM-INF:SUBTITLES="subs3"
+https://raw.githubusercontent.com/luciefers-Angel/MyIpTV/refs/heads/main/One%20Punch%20Man%20-%2001%20%5B720p%5D%5BEngSub%5D-eng-ceb.srt
+
+#EXTINF:-1 tvg-name="One-Punch Man" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTg5DK6gZyUdD5_NwgTiu0xeonXgOQRF6BXZ_eC7n_4mAdWRZ7Ogd0cGQk&s=10" group-title="Anime" country="Japan",One-Punch Man
+#EXT-X-STREAM-INF:SUBTITLES="subs4"
+https://storage.kanzaki.ru/ANIME___/One-Punch_Man/[HorribleSubs] One-Punch Man - 04 [720p].mkv
+#EXT-X-STREAM-INF:SUBTITLES="subs4"
+https://raw.githubusercontent.com/luciefers-Angel/MyIpTV/refs/heads/main/One%20Punch%20Man%20-%2001%20%5B720p%5D%5BEngSub%5D-eng-ceb.srt
+
+#EXTINF:-1 tvg-name="One-Punch Man" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTg5DK6gZyUdD5_NwgTiu0xeonXgOQRF6BXZ_eC7n_4mAdWRZ7Ogd0cGQk&s=10" group-title="Anime" country="Japan",One-Punch Man
+#EXT-X-STREAM-INF:SUBTITLES="subs5"
+https://storage.kanzaki.ru/ANIME___/One-Punch_Man/[HorribleSubs] One-Punch Man - 05 [720p].mkv
+#EXT-X-STREAM-INF:SUBTITLES="subs5"
+https://raw.githubusercontent.com/luciefers-Angel/MyIpTV/refs/heads/main/One%20Punch%20Man%20-%2001%20%5B720p%5D%5BEngSub%5D-eng-ceb.srt
+
+#EXTINF:-1 tvg-name="One-Punch Man" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTg5DK6gZyUdD5_NwgTiu0xeonXgOQRF6BXZ_eC7n_4mAdWRZ7Ogd0cGQk&s=10" group-title="Anime" country="Japan",One-Punch Man
+#EXT-X-STREAM-INF:SUBTITLES="subs6"
+https://storage.kanzaki.ru/ANIME___/One-Punch_Man/[HorribleSubs] One-Punch Man - 06 [720p].mkv
+#EXT-X-STREAM-INF:SUBTITLES="subs6"
+https://raw.githubusercontent.com/luciefers-Angel/MyIpTV/refs/heads/main/One%20Punch%20Man%20-%2001%20%5B720p%5D%5BEngSub%5D-eng-ceb.srt
+
+#EXTINF:-1 tvg-name="One-Punch Man" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTg5DK6gZyUdD5_NwgTiu0xeonXgOQRF6BXZ_eC7n_4mAdWRZ7Ogd0cGQk&s=10" group-title="Anime" country="Japan",One-Punch Man
+#EXT-X-STREAM-INF:SUBTITLES="subs7"
+https://storage.kanzaki.ru/ANIME___/One-Punch_Man/[HorribleSubs] One-Punch Man - 07 [720p].mkv
+#EXT-X-STREAM-INF:SUBTITLES="subs7"
+https://raw.githubusercontent.com/luciefers-Angel/MyIpTV/refs/heads/main/One%20Punch%20Man%20-%2001%20%5B720p%5D%5BEngSub%5D-eng-ceb.srt
+
+#EXTINF:-1 tvg-name="One-Punch Man" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTg5DK6gZyUdD5_NwgTiu0xeonXgOQRF6BXZ_eC7n_4mAdWRZ7Ogd0cGQk&s=10" group-title="Anime" country="Japan",One-Punch Man
+#EXT-X-STREAM-INF:SUBTITLES="subs8"
+https://storage.kanzaki.ru/ANIME___/One-Punch_Man/[HorribleSubs] One-Punch Man - 08 [720p].mkv
+#EXT-X-STREAM-INF:SUBTITLES="subs8"
+https://raw.githubusercontent.com/luciefers-Angel/MyIpTV/refs/heads/main/One%20Punch%20Man%20-%2001%20%5B720p%5D%5BEngSub%5D-eng-ceb.srt
+
+#EXTINF:-1 tvg-name="One-Punch Man" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTg5DK6gZyUdD5_NwgTiu0xeonXgOQRF6BXZ_eC7n_4mAdWRZ7Ogd0cGQk&s=10" group-title="Anime" country="Japan",One-Punch Man
+#EXT-X-STREAM-INF:SUBTITLES="subs9"
+https://storage.kanzaki.ru/ANIME___/One-Punch_Man/[HorribleSubs] One-Punch Man - 09 [720p].mkv
+#EXT-X-STREAM-INF:SUBTITLES="subs9"
+https://raw.githubusercontent.com/luciefers-Angel/MyIpTV/refs/heads/main/One%20Punch%20Man%20-%2001%20%5B720p%5D%5BEngSub%5D-eng-ceb.srt
+
+#EXTINF:-1 tvg-name="One-Punch Man" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTg5DK6gZyUdD5_NwgTiu0xeonXgOQRF6BXZ_eC7n_4mAdWRZ7Ogd0cGQk&s=10" group-title="Anime" country="Japan",One-Punch Man
+#EXT-X-STREAM-INF:SUBTITLES="subs10"
+https://storage.kanzaki.ru/ANIME___/One-Punch_Man/[HorribleSubs] One-Punch Man - 10 [720p].mkv
+#EXT-X-STREAM-INF:SUBTITLES="subs10"
+https://raw.githubusercontent.com/luciefers-Angel/MyIpTV/refs/heads/main/One%20Punch%20Man%20-%2001%20%5B720p%5D%5BEngSub%5D-eng-ceb.srt
+
+#EXTINF:-1 tvg-name="One-Punch Man" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTg5DK6gZyUdD5_NwgTiu0xeonXgOQRF6BXZ_eC7n_4mAdWRZ7Ogd0cGQk&s=10" group-title="Anime" country="Japan",One-Punch Man
+#EXT-X-STREAM-INF:SUBTITLES="subs11"
+https://storage.kanzaki.ru/ANIME___/One-Punch_Man/[HorribleSubs] One-Punch Man - 11 [720p].mkv
+#EXT-X-STREAM-INF:SUBTITLES="subs11"
+https://raw.githubusercontent.com/luciefers-Angel/MyIpTV/refs/heads/main/One%20Punch%20Man%20-%2001%20%5B720p%5D%5BEngSub%5D-eng-ceb.srt
+
+#EXTINF:-1 tvg-name="One-Punch Man" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTg5DK6gZyUdD5_NwgTiu0xeonXgOQRF6BXZ_eC7n_4mAdWRZ7Ogd0cGQk&s=10" group-title="Anime" country="Japan",One-Punch Man
+#EXT-X-STREAM-INF:SUBTITLES="subs12"
+https://storage.kanzaki.ru/ANIME___/One-Punch_Man/[HorribleSubs] One-Punch Man - 12 [720p].mkv
+#EXT-X-STREAM-INF:SUBTITLES="subs12"
+https://raw.githubusercontent.com/luciefers-Angel/MyIpTV/refs/heads/main/One%20Punch%20Man%20-%2001%20%5B720p%5D%5BEngSub%5D-eng-ceb.srt
+
+
+
+
+
+
