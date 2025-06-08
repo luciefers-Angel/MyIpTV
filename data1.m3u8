@@ -367,7 +367,8 @@ https://www.youtube.com/watch?v=shW9i6k8cB0
 
 #EXTGRP:Live TV
 #EXTINF:-1 tvg-name="CNN International" tvg-logo="https://example.com/logos/cnn.png" group-title="News" country="USA" video-type="Live" Title="CNN Live Stream"
-https://example.com/live/cnn_stream.m3u8
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_5.m3u8
+https://storage.kanzaki.ru/ANIME___/11eyes/%5BJacobSwaggedUp%5D%2011eyes%20-%2001%20%28BD%201280x720%29.mp4
 #EXTXSUB:https://example.com/subtitles/cnn_news.vtt
 
 #EXTGRP:Series
