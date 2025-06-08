@@ -255,7 +255,135 @@ https://storage.kanzaki.ru/ANIME___/One-Punch_Man/[HorribleSubs] One-Punch Man -
 https://raw.githubusercontent.com/luciefers-Angel/MyIpTV/refs/heads/main/One%20Punch%20Man%20-%2001%20%5B720p%5D%5BEngSub%5D-eng-ceb.srt
 
 
+EXTGRP:Anime
+
+#EXTINF:-1 
+tvg-name="One-Punch Man" 
+tvg-logo="https://via.placeholder.com/300x450?text=One-Punch+Man" 
+group-title="Anime" 
+country="Japan" 
+stream-type="Series" 
+Season="1" 
+Episode="1" 
+Title="One-Punch Man Episode 1" 
+#EXT-X-STREAM-INF:SUBTITLES="https://example.com/subtitles_en.vtt"
+https://example.com/stream1.mp4
+#EXT-X-STREAM-INF:SUBTITLES="https://example.com/subtitles_jp.vtt"
+https://example.com/stream2.mp4
+#EXT-X-STREAM-INF:SUBTITLES="https://example.com/subtitles_es.vtt"
+https://example.com/stream3.mp4
+
+#EXTINF:-1 
+tvg-name="Attack on Titan" 
+tvg-logo="https://via.placeholder.com/300x450?text=Attack+on+Titan" 
+group-title="Anime" 
+country="Japan" 
+stream-type="Series" 
+Season="4" 
+Episode="16" 
+Title="Attack on Titan Final Season" 
+#EXT-X-STREAM-INF:SUBTITLES="https://example.com/aot_subtitles_en.vtt"
+https://example.com/aot_stream1.mp4
+#EXT-X-STREAM-INF:SUBTITLES="https://example.com/aot_subtitles_jp.vtt"
+https://example.com/aot_stream2.mp4
+
+#EXTINF:-1 
+tvg-name="The Dark Knight" 
+tvg-logo="https://via.placeholder.com/300x450?text=The+Dark+Knight" 
+group-title="Hollywood" 
+country="USA" 
+stream-type="Movie" 
+Title="The Dark Knight (2008)" 
+#EXT-X-STREAM-INF:SUBTITLES="https://example.com/darkknight_subtitles_en.vtt"
+https://example.com/darkknight_stream1.mp4
+#EXT-X-STREAM-INF:SUBTITLES="https://example.com/darkknight_subtitles_es.vtt"
+https://example.com/darkknight_stream2.mp4
+
+#EXTGRP:Live TV
+
+#EXTINF:-1 
+tvg-name="News Channel 24" 
+tvg-logo="https://via.placeholder.com/300x450?text=News+24" 
+group-title="Live TV" 
+country="USA" 
+stream-type="Live" 
+Title="24/7 News Channel" 
+#EXT-X-STREAM-INF:SUBTITLES="https://example.com/news_subtitles_en.vtt"
+https://example.com/live_news.m3u8
+
+#EXTGRP:Series
+
+#EXTINF:-1 
+tvg-name="Stranger Things" 
+tvg-logo="https://via.placeholder.com/300x450?text=Stranger+Things" 
+group-title="Series" 
+country="USA" 
+stream-type="Series" 
+Season="4" 
+Episode="9" 
+Title="Stranger Things: The Final Chapter" 
+#EXT-X-STREAM-INF:SUBTITLES="https://example.com/st_subtitles_en.vtt"
+https://example.com/st_stream1.mp4
+#EXT-X-STREAM-INF:SUBTITLES="https://example.com/st_subtitles_fr.vtt"
+https://example.com/st_stream2.mp4
+
+#EXTGRP:Anime
+
+#EXTINF:-1 
+tvg-name="Demon Slayer" 
+tvg-logo="https://via.placeholder.com/300x450?text=Demon+Slayer" 
+group-title="Anime" 
+country="Japan" 
+stream-type="Series" 
+Season="2" 
+Episode="10" 
+Title="Demon Slayer: Entertainment District Arc" 
+#EXT-X-STREAM-INF:SUBTITLES="https://example.com/ds_subtitles_en.vtt"
+https://example.com/ds_stream1.mp4
+#EXT-X-STREAM-INF:SUBTITLES="https://example.com/ds_subtitles_jp.vtt"
+https://example.com/ds_stream2.mp4
 
 
+#EXTM3U
+#EXTGRP:Anime
+#EXTINF:-1 tvg-name="One-Punch Man" tvg-logo="https://image.tmdb.org/t/p/w500/iE3s0lG5QVdEHOEZnoAxjmMtvne.jpg" group-title="Anime" country="Japan" video-type="Series" Season="1" Episode="1" Title="One-Punch Man Episode 1"
+https://example.com/onepunchman_ep1_stream1.mp4
+https://example.com/onepunchman_ep1_stream2.mp4
+https://example.com/onepunchman_ep1_stream3.mp4
+#EXTXSUB:https://example.com/subtitles/onepunchman_ep1_en.vtt
+#EXTXSUB:https://example.com/subtitles/onepunchman_ep1_es.srt
 
+#EXTGRP:Anime
+#EXTINF:-1 tvg-name="Attack on Titan" tvg-logo="https://image.tmdb.org/t/p/w500/y8kToqE8SA4QDekmXm6QqgqjqyV.jpg" group-title="Anime" country="Japan" video-type="Series" Season="Final Season" Episode="Part 3" Title="Attack on Titan Final Season Part 3"
+https://example.com/aot_final_part3_stream1.m3u8
+https://example.com/aot_final_part3_stream2.m3u8
+#EXTXSUB:https://example.com/subtitles/aot_final_part3.vtt
 
+#EXTGRP:Hollywood
+#EXTINF:-1 tvg-name="Spider-Man: Across the Spider-Verse" tvg-logo="https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg" group-title="Hollywood" country="USA" video-type="Movie" Title="Spider-Man: Across the Spider-Verse"
+https://drive.google.com/uc?export=download&id=ABC123456789
+https://www.youtube.com/watch?v=shW9i6k8cB0
+#EXTXSUB:https://example.com/subtitles/spiderverse_en.srt
+
+#EXTGRP:Live TV
+#EXTINF:-1 tvg-name="CNN International" tvg-logo="https://example.com/logos/cnn.png" group-title="News" country="USA" video-type="Live" Title="CNN Live Stream"
+https://example.com/live/cnn_stream.m3u8
+#EXTXSUB:https://example.com/subtitles/cnn_news.vtt
+
+#EXTGRP:Series
+#EXTINF:-1 tvg-name="The Witcher" tvg-logo="https://image.tmdb.org/t/p/w500/7vjr8I6B2gGigEZI0k4qseZ2PRn.jpg" group-title="Fantasy" country="USA" video-type="Series" Season="3" Episode="1" Title="The Witcher S3E1"
+https://example.com/witcher_s3e1_stream1.mp4
+https://example.com/witcher_s3e1_stream2.mp4
+#EXTXSUB:https://example.com/subtitles/witcher_s3e1.vtt
+
+#EXTGRP:Anime
+#EXTINF:-1 tvg-name="Demon Slayer" tvg-logo="https://image.tmdb.org/t/p/w500/mBZofGx9SYXzw6O0LQ9q8qZzV4P.jpg" group-title="Anime" country="Japan" video-type="Series" Season="Entertainment District" Episode="1" Title="Demon Slayer: Entertainment District Arc"
+https://example.com/demonslayer_ent_district_ep1.mpd
+#EXTXSUB:https://example.com/subtitles/demonslayer_ed_arc.vtt
+
+#EXTGRP:Hollywood
+#EXTINF:-1 tvg-name="John Wick: Chapter 4" tvg-logo="https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg" group-title="Action" country="USA" video-type="Movie" Title="John Wick: Chapter 4"
+https://example.com/johnwick4_stream1.m3u8
+https://example.com/johnwick4_stream2.m3u8
+https://drive.google.com/uc?export=download&id=XYZ987654321
+#EXTXSUB:https://example.com/subtitles/johnwick4_en.srt
