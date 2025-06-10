@@ -1,31 +1,8 @@
 #EXTM3U
 
-#EXTGRP:One Punch Man
-#EXTINF:-1 tvg-name="One Punch Man 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTg5DK6gZyUdD5_NwgTiu0xeonXgOQRF6BXZ_eC7n_4mAdWRZ7Ogd0cGQk&s=10" group-title="Anime" video-type="Anime Series" country="Japan",One Punch Man Season 1
-https://storage.kanzaki.ru/ANIME___/One-Punch_Man/%5BHorribleSubs%5D%20One-Punch%20Man%20-%2001%20%5B720p%5D.mkv
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_5.m3u8
-#EXTXSUB:https://raw.githubusercontent.com/luciefers-Angel/MyIpTV/refs/heads/main/OnePunchMan-Ep01-eng-ceb.vtt
-http://www.djnutte.com/movies/Appleseed%20(DIVX).mkv
-http://www.djnutte.com/movies/Appleseed%20(DIVX).m3u8
-http://www.djnutte.com/movies/Appleseed%20(DIVX).mp4
-#EXTXSUB:https://subtitles.example.com/onepunchman/ep01_en.srt
-
-
-#EXTINF:-1 tvg-name="One Punch Man 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTg5DK6gZyUdD5_NwgTiu0xeonXgOQRF6BXZ_eC7n_4mAdWRZ7Ogd0cGQk&s=10" group-title="Anime" video-type="Anime Series" country="Japan",One Punch Man Season 2
-https://storage.kanzaki.ru/ANIME___/One-Punch_Man/%5BHorribleSubs%5D%20One-Punch%20Man%20-%2001%20%5B720p%5D.mkv
-#EXTXSUB:https://raw.githubusercontent.com/luciefers-Angel/MyIpTV/refs/heads/main/OnePunchMan-Ep01-eng-ceb.vtt
-http://www.djnutte.com/movies/Appleseed%20(DIVX).mkv
-#EXTXSUB:https://subtitles.example.com/onepunchman/ep01_en.srt
-http://www.djnutte.com/movies/Appleseed%20(DIVX).m3u8
-#EXTXSUB:https://subtitles.example.com/onepunchman/ep01_en.srt
-http://www.djnutte.com/movies/Appleseed%20(DIVX).mp4
-#EXTXSUB:https://subtitles.example.com/onepunchman/ep01_en.srt
-
-
-
 #EXTGRP:Entertainment
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="Entertainment" video-type="Live TV" country="Philippines",A2Z
 https://storage.kanzaki.ru/ANIME___/One-Punch_Man/%5BHorribleSubs%5D%20One-Punch%20Man%20-%2001%20%5B720p%5D.mkv
-
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_5.m3u8
 
 
