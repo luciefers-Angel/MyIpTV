@@ -69,8 +69,8 @@ https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="3ABN Praise Him Music Network" tvg-logo="https://i.imgur.com/iBcqT8L.png" group-title="Religious" video-type="Live" country="Mexico",3ABN Praise Him Music Network
 https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
-#EXTGRP:Tagalog Dub
-#EXTINF:-1 tvg-name="Naruto Kid" tvg-logo="https://resizing.flixster.com/R9ybOpF1Sn76VC3mbidnN66_rVU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9161972_b_h9_aa.jpg" group-title="Tagalog Dub" video-type="Anime Series" country="Japan",Naruto Kid
+#EXTGRP:Anime
+#EXTINF:-1 tvg-name="Naruto Kid" tvg-logo="https://resizing.flixster.com/R9ybOpF1Sn76VC3mbidnN66_rVU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9161972_b_h9_aa.jpg" group-title="Anime" video-type="Tagalog Dub" country="🇯🇵 Japan",Naruto Kid
 https://animerevival.xyz/files/nrkd/Naruto%2001.mp4
 https://animerevival.xyz/files/nrkd/Naruto%2002.mp4
 https://animerevival.xyz/files/nrkd/Naruto%2003.mp4
@@ -172,8 +172,7 @@ https://animerevival.xyz/files/nrkd/Naruto%2097.mp4
 https://animerevival.xyz/files/nrkd/Naruto%2098.mp4
 https://animerevival.xyz/files/nrkd/Naruto%2099.mp4
 https://animerevival.xyz/files/nrkd/Naruto%20100.mp4
-#EXTGRP:Anime
-#EXTINF:-1 tvg-name="Boruto: Naruto Next Generations" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe8HBjtsL7eRAi7ayvclRtw_n72WlZSqeN4Q&s" group-title="Anime Series" video-type="Tagalog Dub" country="🇯🇵Japan",Boruto: Naruto Next Generations
+#EXTINF:-1 tvg-name="Boruto: Naruto Next Generations" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe8HBjtsL7eRAi7ayvclRtw_n72WlZSqeN4Q&s" group-title="Anime" video-type="Tagalog Dub" country="🇯🇵 Japan",Boruto: Naruto Next Generations
 https://ia801504.us.archive.org/27/items/b-0rutu-1x-1/B0rutu%201x1.mp4
 https://ia801504.us.archive.org/27/items/b-0rutu-1x-1/B0rutu%201x2.mp4
 https://ia801504.us.archive.org/27/items/b-0rutu-1x-1/B0rutu%201x3.mp4
