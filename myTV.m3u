@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTGRP:Anime
-#EXTINF:-1 tvg-name="One Punch Man Season 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTg5DK6gZyUdD5_NwgTiu0xeonXgOQRF6BXZ_eC7n_4mAdWRZ7Ogd0cGQk&s=10" group-title="Anime" video-type="Anime Series" country="Japan",One Punch Man Season 1
+#EXTINF:-1 tvg-name="One Punch Man Season 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTg5DK6gZyUdD5_NwgTiu0xeonXgOQRF6BXZ_eC7n_4mAdWRZ7Ogd0cGQk&s=10" group-title="Anime" video-type="Anime Series" country="🇯🇵 Japan",One Punch Man Season 1
 https://storage.kanzaki.ru/ANIME___/One-Punch_Man/%5BHorribleSubs%5D%20One-Punch%20Man%20-%2001%20%5B720p%5D.mkv
 https://storage.kanzaki.ru/ANIME___/One-Punch_Man/%5BHorribleSubs%5D%20One-Punch%20Man%20-%2002%20%5B720p%5D.mkv
 https://storage.kanzaki.ru/ANIME___/One-Punch_Man/%5BHorribleSubs%5D%20One-Punch%20Man%20-%2003%20%5B720p%5D.mkv
@@ -13,7 +13,7 @@ https://storage.kanzaki.ru/ANIME___/One-Punch_Man/%5BHorribleSubs%5D%20One-Punch
 https://storage.kanzaki.ru/ANIME___/One-Punch_Man/%5BHorribleSubs%5D%20One-Punch%20Man%20-%2010%20%5B720p%5D.mkv
 https://storage.kanzaki.ru/ANIME___/One-Punch_Man/%5BHorribleSubs%5D%20One-Punch%20Man%20-%2011%20%5B720p%5D.mkv
 https://storage.kanzaki.ru/ANIME___/One-Punch_Man/%5BHorribleSubs%5D%20One-Punch%20Man%20-%2012%20%5B720p%5D.mkv
-#EXTINF:-1 tvg-name="Overlord Season 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnxjjxfy5PTNISMTe-YrudRkIXAgK7dZfeuqyxH3m63rNVEqgiiQnGYug&s=10" group-title="Anime" video-type="Anime Series" country="Japan",Overlord Season 1
+#EXTINF:-1 tvg-name="Overlord Season 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnxjjxfy5PTNISMTe-YrudRkIXAgK7dZfeuqyxH3m63rNVEqgiiQnGYug&s=10" group-title="Anime" video-type="Anime Series" country="🇯🇵 Japan",Overlord Season 1
 https://storage.kanzaki.ru/ANIME___/OverLord/%5BHorribleSubs%5D%20OverLord%20-%2001%20%5B720p%5D.mkv
 https://storage.kanzaki.ru/ANIME___/OverLord/%5BHorribleSubs%5D%20OverLord%20-%2002%20%5B720p%5D.mkv
 https://storage.kanzaki.ru/ANIME___/OverLord/%5BHorribleSubs%5D%20OverLord%20-%2003%20%5B720p%5D.mkv
@@ -34,35 +34,35 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 #EXTINF:-1 tvg-name="1Almere TV (720p)" tvg-logo="https://i.imgur.com/XfkbTrU.png" group-title="General" video-type="Live" country="Albania",1Almere TV (720p)
 https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8
 #EXTGRP:Entertainment
-#EXTINF:-1 tvg-name="1KZNTV.za" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" group-title="Entertainment" video-type="Live" country="Albania",1KZNTV.za
+#EXTINF:-1 tvg-name="1KZNTV.za" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" group-title="Entertainment" video-type="Live" country="🇦🇱 Albania",1KZNTV.za
 https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
 #EXTGRP:General
-#EXTINF:-1 tvg-name="1TV (720p)" tvg-logo="https://i.imgur.com/FSkYLPK.png" group-title="General" video-type="Live" country="Hungary",1TV (720p)
+#EXTINF:-1 tvg-name="1TV (720p)" tvg-logo="https://i.imgur.com/FSkYLPK.png" group-title="General" video-type="Live" country="🇦🇱 Albania",1TV (720p)
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
-#EXTINF:-1 tvg-name="1TV (720p)" tvg-logo="https://i.imgur.com/ftiuNK3.png" group-title="General" video-type="Live" country="Georgia",1TV (720p)
+#EXTINF:-1 tvg-name="1TV (720p)" tvg-logo="https://i.imgur.com/ftiuNK3.png" group-title="General" video-type="Live" country="🇬🇪 Georgia",1TV (720p)
 https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8
-#EXTINF:-1 tvg-name="2TV (720p)" tvg-logo="https://i.imgur.com/FJBL6zI.png" group-title="General" video-type="Live" country="Georgia",2TV (720p)
+#EXTINF:-1 tvg-name="2TV (720p)" tvg-logo="https://i.imgur.com/FJBL6zI.png" group-title="General" video-type="Live" country="🇬🇪 Georgia",2TV (720p)
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 #EXTGRP:Entertainment
-#EXTINF:-1 tvg-name="2x2.ru" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="Entertainment" video-type="Live" country="Rissia",2x2.ru
+#EXTINF:-1 tvg-name="2x2.ru" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="Entertainment" video-type="Live" country="🇷🇺 Russia",2x2.ru
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTGRP:News
-#EXTINF:-1 tvg-name="3/24 (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/324_%28CCMA%29_logo.svg/revision/latest/scale-to-width-down/512" group-title="News" video-type="Live" country="Spain",3/24 (1080p)
+#EXTINF:-1 tvg-name="3/24 (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/324_%28CCMA%29_logo.svg/revision/latest/scale-to-width-down/512" group-title="News" video-type="Live" country="🇷🇸 Serbia",3/24 (1080p)
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 #EXTGRP:General
-#EXTINF:-1 tvg-name="3ABN Canada" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPQqRrZaan2qFuhgVEGhI8tLUOewDPWPXL6A&s" group-title="General" video-type="Live" country="Canada",3ABN Canada
+#EXTINF:-1 tvg-name="3ABN Canada" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPQqRrZaan2qFuhgVEGhI8tLUOewDPWPXL6A&s" group-title="General" video-type="Live" country="🇨🇦 Canada",3ABN Canada
 https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
 #EXTGRP:Religious
-#EXTINF:-1 tvg-name="3ABN Dare To Dream Network" tvg-logo="https://i.imgur.com/JwCLwQ2.png" group-title="Religious" video-type="Live" country="US",3ABN Dare To Dream Network
+#EXTINF:-1 tvg-name="3ABN Dare To Dream Network" tvg-logo="https://i.imgur.com/JwCLwQ2.png" group-title="Religious" video-type="Live" country="🇺🇸 United States",3ABN Dare To Dream Network
 https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="3ABN English" tvg-logo="https://i.imgur.com/bgJQIyW.png" group-title="Religious" video-type="Live" country="US",3ABN English
+#EXTINF:-1 tvg-name="3ABN English" tvg-logo="https://i.imgur.com/bgJQIyW.png" group-title="Religious" video-type="Live" country="🇺🇸 United States",3ABN English
 https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="3ABN French" tvg-logo="https://i.imgur.com/B5gsM7m.png" group-title="Religious" video-type="Live" country="",3ABN French
+#EXTINF:-1 tvg-name="3ABN French" tvg-logo="https://i.imgur.com/B5gsM7m.png" group-title="Religious" video-type="Live" country="🇫🇷 France",3ABN French
 https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="3ABN International" tvg-logo="https://i.imgur.com/8YMLPA3.png" group-title="Religious" video-type="Live" country="International",3ABN International
+#EXTINF:-1 tvg-name="3ABN International" tvg-logo="https://i.imgur.com/8YMLPA3.png" group-title="Religious" video-type="Live" country="🌐 International",3ABN International
 https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
 #EXTGRP:Kids
-#EXTINF:-1 tvg-name="3ABN Kids" tvg-logo="https://i.imgur.com/SUPQAok.png" group-title="Kids" video-type="Live" country="US",3ABN Kids
+#EXTINF:-1 tvg-name="3ABN Kids" tvg-logo="https://i.imgur.com/SUPQAok.png" group-title="Kids" video-type="Live" country="🇺🇸 United States",3ABN Kids
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 #EXTGRP:Religious
 #EXTINF:-1 tvg-name="3ABN Latino" tvg-logo="https://i.imgur.com/If6rCuD.png" group-title="Religious" video-type="Live" country="Mexico",3ABN Latino
