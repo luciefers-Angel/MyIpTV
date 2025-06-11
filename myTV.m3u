@@ -200,3 +200,17 @@ https://ia801504.us.archive.org/27/items/b-0rutu-1x-1/B0rutu%201x23.mp4
 https://ia801504.us.archive.org/27/items/b-0rutu-1x-1/B0rutu%201x24.mp4
 https://ia801504.us.archive.org/27/items/b-0rutu-1x-1/B0rutu%201x25.mp4
 https://ia801504.us.archive.org/27/items/b-0rutu-1x-1/B0rutu%201x26.mp4
+#EXTGRP:Religious
+#EXTINF:-1 tvg-name="3ABN TV Uganda (720p) [Not 24/7]" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mb4TLclxAUPvlnV84blg4YSnZYjspMitP_sS2rX_5IYQ=s512-c-k-c0x00ffffff-no-rj" group-title="Religious" video-type="Live" country="🇺🇬 Uganda",3ABN TV Uganda (720p) [Not 24/7]
+https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
+#EXTGRP:General
+#EXTINF:-1 tvg-name="3HD" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="General" video-type="Live" country="🇦🇬 Antigua and Barbuda",3HD
+https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
+#EXTGRP:Undefined
+#EXTINF:-1 tvg-name="4 Fun TV (288p) [Not 24/7" tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="Undefined" video-type="Live" country="",4 Fun TV (288p) [Not 24/7
+https://stream.4fun.tv:8888/hls/4f.m3u8
+#EXTINF:-1 tvg-name="4K Travel TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcG7ID0dN-QdHNzHs0oCyUHAZC8ZsLRxV9qQ&s" group-title="Undefined" video-type="Live" country="🇦🇲 Armenia",4K Travel TV
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+#EXTGRP:Entertainment
+#EXTINF:-1 tvg-name="4U TV (720p)" tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Entertainment" video-type="Live" country="🇧🇮 Burundi",4U TV (720p)
+https://hls.4utv.live/hls/stream.m3u8
