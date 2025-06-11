@@ -216,4 +216,22 @@ https://hls.4utv.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-name="AZ2" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="Entertainment" video-type="Live" country="🇵🇭 Philippines",AZ2
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_5.m3u8
+#EXTGRP:News
+#EXTINF:-1 tvg-name="Aaj Tak News" tvg-logo="https://www.sabinchaudhary.com.np/LiveTv/Ajtak.png" group-title="News" video-type="Live" country="🇮🇳 India",Aaj Tak News
+https://feeds.intoday.in/aajtak/api/master.m3u8
+#EXTINF:-1 tvg-name="1st India" tvg-logo="https://www.sabinchaudhary.com.np/LiveTv/1india.jpg" group-title="News" video-type="Live" country="🇮🇳 India",1st India
+https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
+#EXTINF:-1 tvg-name="News 24 India" tvg-logo="https://www.sabinchaudhary.com.np/LiveTv/news24.jpg" group-title="News" video-type="Live" country="🇮🇳 India",News 24 India
+https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-name="CLTV 36 (720p) [Not 24/7]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMcxBFVXj95pMGEK1PFmbL_fQJNXhwl2O-dg&s" group-title="News" video-type="Live" country="🇵🇭 Philippines",CLTV 36 (720p) [Not 24/7]
+https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
+#EXTINF:-1 tvg-name="DZBB-DT1" tvg-logo="https://i.imgur.com/5GXTkZx.png" group-title="News" video-type="Livd" country="🇵🇭 Philippines",DZBB-DT1
+https://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=1580780638
+#EXTINF:-1 tvg-name="Mindanow Network TV" tvg-logo="https://i.imgur.com/xBlYirh.jpeg" group-title="News" video-type="Live" country="🇵🇭 Philippines",Mindanow Network TV
+https://streams1.comclark.com/overlay/mindanow/chunks.m3u8?nimblesessionid=45020
+#EXTGRP:Religious
+#EXTINF:-1 tvg-name="CCTN 47" tvg-logo="https://i.imgur.com/IFpAmvW.png" group-title="Religious" video-type="Live" country="🇵🇭 Philippines",CCTN 47
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+#EXTINF:-1 tvg-name="INC TV" tvg-logo="https://i.imgur.com/JGSLqA6.png" group-title="Religious" video-type="Live" country="🇵🇭 Philippines",INC TV
+https://stream-199211.castr.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/tracks-v1a1/rewind-7200.ts.m3u8
 
