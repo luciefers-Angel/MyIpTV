@@ -213,3 +213,7 @@ https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_
 #EXTGRP:Entertainment
 #EXTINF:-1 tvg-name="4U TV (720p)" tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Entertainment" video-type="Live" country="🇧🇮 Burundi",4U TV (720p)
 https://hls.4utv.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="AZ2" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="Entertainment" video-type="Live" country="🇵🇭 Philippines",AZ2
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_5.m3u8
+
