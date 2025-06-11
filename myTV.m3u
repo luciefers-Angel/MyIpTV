@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTGRP:Entertainment
-#EXTINF:-1 tvg-name="A2Z Edit Philippines" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="Entertainment" video-type="Live TV" country="Philippines",A2Z Edit Philippines
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_5.m3u8
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_5.mp4
 #EXTGRP:Anime
 #EXTINF:-1 tvg-name="One Punch Man Season 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTg5DK6gZyUdD5_NwgTiu0xeonXgOQRF6BXZ_eC7n_4mAdWRZ7Ogd0cGQk&s=10" group-title="Anime" video-type="Anime Series" country="Japan",One Punch Man Season 1
 https://storage.kanzaki.ru/ANIME___/One-Punch_Man/%5BHorribleSubs%5D%20One-Punch%20Man%20-%2001%20%5B720p%5D.mkv
@@ -31,3 +27,12 @@ https://storage.kanzaki.ru/ANIME___/OverLord/%5BHorribleSubs%5D%20OverLord%20-%2
 https://storage.kanzaki.ru/ANIME___/OverLord/%5BHorribleSubs%5D%20OverLord%20-%2011%20%5B720p%5D.mkv
 https://storage.kanzaki.ru/ANIME___/OverLord/%5BHorribleSubs%5D%20OverLord%20-%2012%20%5B720p%5D.mkv
 https://storage.kanzaki.ru/ANIME___/OverLord/%5BHorribleSubs%5D%20OverLord%20-%2013%20%5B720p%5D.mkv
+#EXTGRP:Undefined
+#EXTINF:-1 tvg-name="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa9A7pyptbDQbSRU_0fhXZtrpPZfH6IJ61JzGLwiRXaYW2EPN4frN4mAs&s=10" group-title="Undefined" video-type="Live" country="Undefined",Undefined
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c25e430-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b7de8e4-d114-4438-b098-6f7aee77b4be
+#EXTGRP:Live
+#EXTINF:-1 tvg-name="1Almere TV (720p)" tvg-logo="https://i.imgur.com/XfkbTrU.png" group-title="Live" video-type="General" country="Albania",1Almere TV (720p)
+https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8
+#EXTGRP:Entertainment;Family;General
+#EXTINF:-1 tvg-name="1KZNTV.za" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" group-title="Entertainment;Family;General" video-type="Livr" country="",1KZNTV.za
+https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
