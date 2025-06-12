@@ -1,8 +1,7 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-name="Overlord Season 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnxjjxfy5PTNISMTe-YrudRkIXAgK7dZfeuqyxH3m63rNVEqgiiQnGYug&s=10" group-title="Anime" video-type="Anime Series" country="🇯🇵 Japan",Overlord Season 1
 #EXTGRP:Anime
+#EXTINF:-1 tvg-name="Overlord Season 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnxjjxfy5PTNISMTe-YrudRkIXAgK7dZfeuqyxH3m63rNVEqgiiQnGYug&s=10" group-title="Anime" video-type="Anime Series" country="🇯🇵 Japan",Overlord Season 1
 #EXTXEPISODE:1
 https://storage.kanzaki.ru/ANIME___/OverLord/%5BHorribleSubs%5D%20OverLord%20-%2001%20%5B720p%5D.mp4
 https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
@@ -31,9 +30,8 @@ https://storage.kanzaki.ru/ANIME___/OverLord/%5BHorribleSubs%5D%20OverLord%20-%2
 #EXTXEPISODE:13
 https://storage.kanzaki.ru/ANIME___/OverLord/%5BHorribleSubs%5D%20OverLord%20-%2013%20%5B720p%5D.mkv
 
-
-#EXTINF:-1 tvg-name="Overlord Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnxjjxfy5PTNISMTe-YrudRkIXAgK7dZfeuqyxH3m63rNVEqgiiQnGYug&s=10" group-title="Anime" video-type="Anime Series" country="🇯🇵 Japan",Overlord Live Season 1
 #EXTGRP:Live TV
+#EXTINF:-1 tvg-name="Overlord Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnxjjxfy5PTNISMTe-YrudRkIXAgK7dZfeuqyxH3m63rNVEqgiiQnGYug&s=10" group-title="Anime" video-type="Anime Series" country="🇯🇵 Japan",Overlord Live Season 1
 #EXTXSTREAM:
 https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_5.m3u8
