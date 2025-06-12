@@ -1,7 +1,7 @@
 #EXTM3U
-
 #EXTGRP:Anime
-#EXTINF:-1 tvg-name="One Punch Man Season 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTg5DK6gZyUdD5_NwgTiu0xeonXgOQRF6BXZ_eC7n_4mAdWRZ7Ogd0cGQk&s=10" group-title="Anime" video-type="Anime Series" country="🇯🇵 Japan",One Punch Man Season 1https://storage.kanzaki.ru/ANIME___/One-Punch_Man/%5BHorribleSubs%5D%20One-Punch%20Man%20-%2001%20%5B720p%5D.mkv
+#EXTINF:-1 tvg-name="One Punch Man Season 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTg5DK6gZyUdD5_NwgTiu0xeonXgOQRF6BXZ_eC7n_4mAdWRZ7Ogd0cGQk&s=10" group-title="Anime" video-type="Anime Series" country="🇯🇵 Japan",One Punch Man Season 1
+https://storage.kanzaki.ru/ANIME___/One-Punch_Man/%5BHorribleSubs%5D%20One-Punch%20Man%20-%2001%20%5B720p%5D.mkv
 https://storage.kanzaki.ru/ANIME___/One-Punch_Man/%5BHorribleSubs%5D%20One-Punch%20Man%20-%2002%20%5B720p%5D.mkv
 https://storage.kanzaki.ru/ANIME___/One-Punch_Man/%5BHorribleSubs%5D%20One-Punch%20Man%20-%2003%20%5B720p%5D.mkv
 https://storage.kanzaki.ru/ANIME___/One-Punch_Man/%5BHorribleSubs%5D%20One-Punch%20Man%20-%2004%20%5B720p%5D.mkv
@@ -13,8 +13,6 @@ https://storage.kanzaki.ru/ANIME___/One-Punch_Man/%5BHorribleSubs%5D%20One-Punch
 https://storage.kanzaki.ru/ANIME___/One-Punch_Man/%5BHorribleSubs%5D%20One-Punch%20Man%20-%2010%20%5B720p%5D.mkv
 https://storage.kanzaki.ru/ANIME___/One-Punch_Man/%5BHorribleSubs%5D%20One-Punch%20Man%20-%2011%20%5B720p%5D.mkv
 https://storage.kanzaki.ru/ANIME___/One-Punch_Man/%5BHorribleSubs%5D%20One-Punch%20Man%20-%2012%20%5B720p%5D.mkv
-
-#EXTGRP:Anime
 #EXTINF:-1 tvg-name="Overlord Season 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnxjjxfy5PTNISMTe-YrudRkIXAgK7dZfeuqyxH3m63rNVEqgiiQnGYug&s=10" group-title="Anime" video-type="Anime Series" country="🇯🇵 Japan",Overlord Season 1
 https://storage.kanzaki.ru/ANIME___/OverLord/%5BHorribleSubs%5D%20OverLord%20-%2001%20%5B720p%5D.mkv
 https://storage.kanzaki.ru/ANIME___/OverLord/%5BHorribleSubs%5D%20OverLord%20-%2002%20%5B720p%5D.mkv
@@ -215,7 +213,6 @@ https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_
 #EXTGRP:Entertainment
 #EXTINF:-1 tvg-name="4U TV (720p)" tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Entertainment" video-type="Live" country="🇧🇮 Burundi",4U TV (720p)
 https://hls.4utv.live/hls/stream.m3u8
-
 #EXTINF:-1 tvg-name="AZ2" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="Entertainment" video-type="Live" country="🇵🇭 Philippines",AZ2
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_5.m3u8
 #EXTGRP:News
@@ -227,7 +224,7 @@ https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u
 https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-name="CLTV 36 (720p) [Not 24/7]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMcxBFVXj95pMGEK1PFmbL_fQJNXhwl2O-dg&s" group-title="News" video-type="Live" country="🇵🇭 Philippines",CLTV 36 (720p) [Not 24/7]
 https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
-#EXTINF:-1 tvg-name="DZBB-DT1" tvg-logo="https://i.imgur.com/5GXTkZx.png" group-title="News" video-type="Livd" country="🇵🇭 Philippines",DZBB-DT1
+#EXTINF:-1 tvg-name="DZBB-DT1" tvg-logo="https://i.imgur.com/5GXTkZx.png" group-title="News" video-type="Live" country="🇵🇭 Philippines",DZBB-DT1
 https://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=1580780638
 #EXTINF:-1 tvg-name="Mindanow Network TV" tvg-logo="https://i.imgur.com/xBlYirh.jpeg" group-title="News" video-type="Live" country="🇵🇭 Philippines",Mindanow Network TV
 https://streams1.comclark.com/overlay/mindanow/chunks.m3u8?nimblesessionid=45020
@@ -236,4 +233,6 @@ https://streams1.comclark.com/overlay/mindanow/chunks.m3u8?nimblesessionid=45020
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTINF:-1 tvg-name="INC TV" tvg-logo="https://i.imgur.com/JGSLqA6.png" group-title="Religious" video-type="Live" country="🇵🇭 Philippines",INC TV
 https://stream-199211.castr.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/tracks-v1a1/rewind-7200.ts.m3u8
-
+#EXTGRP:Entertainment
+#EXTINF:-1 tvg-name="5-Minute Craft (1080p)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1wwMwCZodc8qFd3cemz47UNCXWbjZK6ZvZA&s" group-title="Entertainment" video-type="Live" country="🇨🇲 Cameroon",5-Minute Craft (1080p)
+https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
