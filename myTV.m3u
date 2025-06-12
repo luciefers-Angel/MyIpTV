@@ -245,12 +245,3 @@ https://dn720004.ca.archive.org/0/items/movies_202211/28%20Weeks%20Later.mp
 #EXTINF:-1 tvg-name="28 Days Later" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm5eL9lkW1AtU6XdBRgusClHnqdjTYrcV4Ssxh2xGuKcrKV2TXe2sf7sQ&s=10" group-title="Movie" video-type="Hollywood Horror" country="🇺🇸 United States",28 Days Later
 https://dn720004.ca.archive.org/0/items/movies_202211/28%20Days%20Later.mp4
 
-#EXTGRP:Live TV
-#EXTINF:-1 tvg-name="5 Plus (480p)" tvg-logo="https://i.imgur.com/4EHL2mH.png" group-title="Live TV" video-type="Entertainment" country="🇨🇦 Canada",5 Plus (480p)
-https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
-#EXTINF:-1 tvg-name="5TV Corrientes (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="Live TV" video-type="General" country="🇨🇦 Canada",5TV Corrientes (480p) [Not 24/7]
-http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-#EXTINF:-1 tvg-name="6PR Perth (1080p)" tvg-logo="https://i.imgur.com/Q9iCxg1.png" group-title="Live TV" video-type="News" country="🇦🇺 Australia",6PR Perth (1080p)
-https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
-
-
