@@ -238,3 +238,42 @@ https://storage.kanzaki.ru/ANIME___/OverLord/%5BHorribleSubs%5D%20OverLord%20-%2
 https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_5.m3u8
 https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
+
+
+
+#EXTM3U
+#EXTGRP:Anime
+#EXTINF:-1 tvg-name="Naruto Kid" tvg-logo="https://resizing.flixster.com/R9ybOpF1Sn76VC3mbidnN66_rVU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFW" group-title="Anime" video-type="TV Series" country="🇯🇵 Japan",Naruto Kid
+#EXTXEPISODE:1
+https://animerevival.xyz/files/nrkd/Naruto%2001.mp4
+#EXTXEPISODE:2
+https://animerevival.xyz/files/nrkd/Naruto%2002.mp4
+#EXTXEPISODE:3
+https://animerevival.xyz/files/nrkd/Naruto%2003.mp4
+#EXTXEPISODE:4
+https://animerevival.xyz/files/nrkd/Naruto%2005.mp4
+#EXTXEPISODE:5
+https://animerevival.xyz/files/nrkd/Naruto%2005.mp4
+#EXTXEPISODE:6
+https://animerevival.xyz/files/nrkd/Naruto%2006.mp4
+#EXTXEPISODE:7
+https://animerevival.xyz/files/nrkd/Naruto%2007.mp4
+#EXTXEPISODE:8
+https://animerevival.xyz/files/nrkd/Naruto%2008.mp4
+#EXTXEPISODE:9
+https://animerevival.xyz/files/nrkd/Naruto%2009.mp4
+#EXTXEPISODE:10
+https://animerevival.xyz/files/nrkd/Naruto%2010.mp4
+
+
+#EXTM3U
+#EXTGRP:Anime
+#EXTINF:-1 tvg-name="Naruto Kid" tvg-logo="https://resizing.flixster.com/R9ybOpF1Sn76VC3mbidnN66_rVU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFW" group-title="Anime" video-type="TV Series" country="🇯🇵 Japan",Naruto Kid
+#EXTXEPISODE:1
+https://animerevival.xyz/files/nrkd/Naruto%2001.mp4
+#EXTINF:-1 tvg-name="Overlord" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnxjjxfy5PTNISMTe-YrudRkIXAgK7dZfeuqyxH3m63rNVEqgiiQnGYug&s=10" group-title="Anime" video-type="TV Series" country="🇯🇵 Japan",Overlord
+#EXTXEPISODE:1
+https://storage.kanzaki.ru/ANIME___/OverLord/%5BHorribleSubs%5D%20OverLord%20-%2001%20%5B720p%5D.mp4
+#EXTXEPISODE:2
+https://storage.kanzaki.ru/ANIME___/OverLord/%5BHorribleSubs%5D%20OverLord%20-%2002%20%5B720p%5D.mp4
+
