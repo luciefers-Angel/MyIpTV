@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTGRP:Anime
 #EXTINF:-1 tvg-name="Naruto Kid" tvg-logo="https://resizing.flixster.com/R9ybOpF1Sn76VC3mbidnN66_rVU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9161972_b_h9_aa.jpg" group-title="Anime" video-type="TV Series" country="🇯🇵 Japan",Naruto Kid
 #EXTXEPISODE:1
@@ -202,8 +201,7 @@ https://animerevival.xyz/files/nrkd/Naruto%2098.mp4
 https://animerevival.xyz/files/nrkd/Naruto%2099.mp4
 #EXTXEPISODE:100
 https://animerevival.xyz/files/nrkd/Naruto%20100.mp4
-
-#EXTGRP:Anime
+#EXTGRP:Tagalog Dub
 #EXTINF:-1 tvg-name="Boruto: Naruto Next Generations" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe8HBjtsL7eRAi7ayvclRtw_n72WlZSqeN4Q&s" group-title="Tagalog Dub" video-type="TV Series" country="🇯🇵 Japan",Boruto: Naruto Next Generations
 #EXTXEPISODE:1
 https://ia801504.us.archive.org/27/items/b-0rutu-1x-1/B0rutu%201x1.mp4
@@ -257,8 +255,7 @@ https://ia801504.us.archive.org/27/items/b-0rutu-1x-1/B0rutu%201x24.mp4
 https://ia801504.us.archive.org/27/items/b-0rutu-1x-1/B0rutu%201x25.mp4
 #EXTXEPISODE:26
 https://ia801504.us.archive.org/27/items/b-0rutu-1x-1/B0rutu%201x26.mp4
-
-#EXTGRP:Anime
+#EXTGRP:Anime Japanese No Sub
 #EXTINF:-1 tvg-name="One Punch Man Season 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTg5DK6gZyUdD5_NwgTiu0xeonXgOQRF6BXZ_eC7n_4mAdWRZ7Ogd0cGQk&s=10" group-title="Anime Japanese No Sub" video-type="TV Series" country="🇯🇵 Japan",One Punch Man Season 1
 #EXTXEPISODE:1
 https://storage.kanzaki.ru/ANIME___/One-Punch_Man/%5BHorribleSubs%5D%20One-Punch%20Man%20-%2001%20%5B720p%5D.mkv
@@ -284,114 +281,128 @@ https://storage.kanzaki.ru/ANIME___/One-Punch_Man/%5BHorribleSubs%5D%20One-Punch
 https://storage.kanzaki.ru/ANIME___/One-Punch_Man/%5BHorribleSubs%5D%20One-Punch%20Man%20-%2011%20%5B720p%5D.mkv
 #EXTXEPISODE:12
 https://storage.kanzaki.ru/ANIME___/One-Punch_Man/%5BHorribleSubs%5D%20One-Punch%20Man%20-%2012%20%5B720p%5D.mkv
-
-
-#EXTGRP:Anime
 #EXTINF:-1 tvg-name="Overlord Season 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnxjjxfy5PTNISMTe-YrudRkIXAgK7dZfeuqyxH3m63rNVEqgiiQnGYug&s=10" group-title="Anime Japanese No Sub" video-type="TV Series" country="🇯🇵 Japan",Overlord Season 1
-#EXTXSTREAM:1
-https://storage.kanzaki.ru/ANIME___/OverLord/%5BHorribleSubs%5D%20OverLord%20-%2001%20%5B720p%5D.mp4
-https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
-https://storage.kanzaki.ru/ANIME___/OverLord/%5BHorribleSubs%5D%20OverLord%20-%2002%20%5B720p%5D.mkv
-https://storage.kanzaki.ru/ANIME___/OverLord/%5BHorribleSubs%5D%20OverLord%20-%2003%20%5B720p%5D.mkv
-https://storage.kanzaki.ru/ANIME___/OverLord/%5BHorribleSubs%5D%20OverLord%20-%2004%20%5B720p%5D.mkv
-https://storage.kanzaki.ru/ANIME___/OverLord/%5BHorribleSubs%5D%20OverLord%20-%2005%20%5B720p%5D.mkv
-https://storage.kanzaki.ru/ANIME___/OverLord/%5BHorribleSubs%5D%20OverLord%20-%2006%20%5B720p%5D.mkv
-https://storage.kanzaki.ru/ANIME___/OverLord/%5BHorribleSubs%5D%20OverLord%20-%2007%20%5B720p%5D.mkv
-https://storage.kanzaki.ru/ANIME___/OverLord/%5BHorribleSubs%5D%20OverLord%20-%2008%20%5B720p%5D.mkv
-https://storage.kanzaki.ru/ANIME___/OverLord/%5BHorribleSubs%5D%20OverLord%20-%2009%20%5B720p%5D.mkv
-https://storage.kanzaki.ru/ANIME___/OverLord/%5BHorribleSubs%5D%20OverLord%20-%2010%20%5B720p%5D.mkv
-https://storage.kanzaki.ru/ANIME___/OverLord/%5BHorribleSubs%5D%20OverLord%20-%2011%20%5B720p%5D.mkv
-https://storage.kanzaki.ru/ANIME___/OverLord/%5BHorribleSubs%5D%20OverLord%20-%2012%20%5B720p%5D.mkv
-https://storage.kanzaki.ru/ANIME___/OverLord/%5BHorribleSubs%5D%20OverLord%20-%2013%20%5B720p%5D.mkv
-
 #EXTGRP:Undefined
-#EXTINF:-1 tvg-name="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa9A7pyptbDQbSRU_0fhXZtrpPZfH6IJ61JzGLwiRXaYW2EPN4frN4mAs&s=10" group-title="Undefined" video-type="Live" country="Undefined",Undefined
+#EXTINF:-1 tvg-name="Undefined" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa9A7pyptbDQbSRU_0fhXZtrpPZfH6IJ61JzGLwiRXaYW2EPN4frN4mAs&s=10" group-title="Undefined" video-type="Live TV" country="🇦🇴 Angola",Undefined
+#EXTXSTREAM:1
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c25e430-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b7de8e4-d114-4438-b098-6f7aee77b4be
 #EXTGRP:General
-#EXTINF:-1 tvg-name="1Almere TV (720p)" tvg-logo="https://i.imgur.com/XfkbTrU.png" group-title="General" video-type="Live" country="Albania",1Almere TV (720p)
+#EXTINF:-1 tvg-name="1Almere TV (720p)" tvg-logo="https://i.imgur.com/XfkbTrU.png" group-title="General" video-type="Live TV" country="🇦🇱 Albania",1Almere TV (720p)
+#EXTXSTREAM:1
 https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8
 #EXTGRP:Entertainment
-#EXTINF:-1 tvg-name="1KZNTV.za" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" group-title="Entertainment" video-type="Live" country="🇦🇱 Albania",1KZNTV.za
+#EXTINF:-1 tvg-name="1KZNTV.za" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" group-title="Entertainment" video-type="Live TV" country="🇦🇱 Albania",1KZNTV.za
+#EXTXSTREAM:1
 https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
 #EXTGRP:General
-#EXTINF:-1 tvg-name="1TV (720p)" tvg-logo="https://i.imgur.com/FSkYLPK.png" group-title="General" video-type="Live" country="🇦🇱 Albania",1TV (720p)
+#EXTINF:-1 tvg-name="1TV (720p)" tvg-logo="https://i.imgur.com/FSkYLPK.png" group-title="General" video-type="Live TV" country="🇦🇱 Albania",1TV (720p)
+#EXTXSTREAM:1
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
-#EXTINF:-1 tvg-name="1TV (720p)" tvg-logo="https://i.imgur.com/ftiuNK3.png" group-title="General" video-type="Live" country="🇬🇪 Georgia",1TV (720p)
+#EXTINF:-1 tvg-name="1TV (720p)" tvg-logo="https://i.imgur.com/ftiuNK3.png" group-title="General" video-type="Live TV" country="🇬🇪 Georgia",1TV (720p)
+#EXTXSTREAM:1
 https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8
 #EXTINF:-1 tvg-name="2TV (720p)" tvg-logo="https://i.imgur.com/FJBL6zI.png" group-title="General" video-type="Live" country="🇬🇪 Georgia",2TV (720p)
+#EXTXSTREAM:1
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 #EXTGRP:Entertainment
-#EXTINF:-1 tvg-name="2x2.ru" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="Entertainment" video-type="Live" country="🇷🇺 Russia",2x2.ru
+#EXTINF:-1 tvg-name="2x2.ru" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="Entertainment" video-type="Live TV" country="🇷🇺 Russia",2x2.ru
+#EXTXSTREAM:1
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTGRP:News
-#EXTINF:-1 tvg-name="3/24 (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/324_%28CCMA%29_logo.svg/revision/latest/scale-to-width-down/512" group-title="News" video-type="Live" country="🇷🇸 Serbia",3/24 (1080p)
+#EXTINF:-1 tvg-name="3/24 (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/324_%28CCMA%29_logo.svg/revision/latest/scale-to-width-down/512" group-title="News" video-type="Live TV" country="🇷🇸 Serbia",3/24 (1080p)
+#EXTXSTREAM:1
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 #EXTGRP:General
-#EXTINF:-1 tvg-name="3ABN Canada" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPQqRrZaan2qFuhgVEGhI8tLUOewDPWPXL6A&s" group-title="General" video-type="Live" country="🇨🇦 Canada",3ABN Canada
+#EXTINF:-1 tvg-name="3ABN Canada" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPQqRrZaan2qFuhgVEGhI8tLUOewDPWPXL6A&s" group-title="General" video-type="Live TV" country="🇨🇦 Canada",3ABN Canada
+#EXTXSTREAM:1
 https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
 #EXTGRP:Religious
-#EXTINF:-1 tvg-name="3ABN Dare To Dream Network" tvg-logo="https://i.imgur.com/JwCLwQ2.png" group-title="Religious" video-type="Live" country="🇺🇸 United States",3ABN Dare To Dream Network
+#EXTINF:-1 tvg-name="3ABN Dare To Dream Network" tvg-logo="https://i.imgur.com/JwCLwQ2.png" group-title="Religious" video-type="Live TV" country="🇺🇸 United States",3ABN Dare To Dream Network
+#EXTXSTREAM:1
 https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="3ABN English" tvg-logo="https://i.imgur.com/bgJQIyW.png" group-title="Religious" video-type="Live" country="🇺🇸 United States",3ABN English
+#EXTINF:-1 tvg-name="3ABN English" tvg-logo="https://i.imgur.com/bgJQIyW.png" group-title="Religious" video-type="Live TV" country="🇺🇸 United States",3ABN English
+#EXTXSTREAM:1
 https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="3ABN French" tvg-logo="https://i.imgur.com/B5gsM7m.png" group-title="Religious" video-type="Live" country="🇫🇷 France",3ABN French
+#EXTXSTREAM:1
 https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="3ABN International" tvg-logo="https://i.imgur.com/8YMLPA3.png" group-title="Religious" video-type="Live" country="🌐 International",3ABN International
+#EXTINF:-1 tvg-name="3ABN International" tvg-logo="https://i.imgur.com/8YMLPA3.png" group-title="Religious" video-type="Live TV" country="🌐 International",3ABN International
+#EXTXSTREAM:1
 https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
 #EXTGRP:Kids
-#EXTINF:-1 tvg-name="3ABN Kids" tvg-logo="https://i.imgur.com/SUPQAok.png" group-title="Kids" video-type="Live" country="🇺🇸 United States",3ABN Kids
+#EXTINF:-1 tvg-name="3ABN Kids" tvg-logo="https://i.imgur.com/SUPQAok.png" group-title="Kids" video-type="Live TV" country="🇺🇸 United States",3ABN Kids
+#EXTXSTREAM:1
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 #EXTGRP:Religious
-#EXTINF:-1 tvg-name="3ABN Latino" tvg-logo="https://i.imgur.com/If6rCuD.png" group-title="Religious" video-type="Live" country="Mexico",3ABN Latino
+#EXTINF:-1 tvg-name="3ABN Latino" tvg-logo="https://i.imgur.com/If6rCuD.png" group-title="Religious" video-type="Live TV" country="🇲🇽 Mexico",3ABN Latino
+#EXTXSTREAM:1
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="3ABN Praise Him Music Network" tvg-logo="https://i.imgur.com/iBcqT8L.png" group-title="Religious" video-type="Live" country="Mexico",3ABN Praise Him Music Network
+#EXTINF:-1 tvg-name="3ABN Praise Him Music Network" tvg-logo="https://i.imgur.com/iBcqT8L.png" group-title="Religious" video-type="Live TV" country="🇲🇽 Mexico",3ABN Praise Him Music Network
+#EXTXSTREAM:1
 https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
-#EXTGRP:Religious
-#EXTINF:-1 tvg-name="3ABN TV Uganda (720p) [Not 24/7]" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mb4TLclxAUPvlnV84blg4YSnZYjspMitP_sS2rX_5IYQ=s512-c-k-c0x00ffffff-no-rj" group-title="Religious" video-type="Live" country="🇺🇬 Uganda",3ABN TV Uganda (720p) [Not 24/7]
+#EXTINF:-1 tvg-name="3ABN TV Uganda (720p) [Not 24/7]" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mb4TLclxAUPvlnV84blg4YSnZYjspMitP_sS2rX_5IYQ=s512-c-k-c0x00ffffff-no-rj" group-title="Religious" video-type="Live TV" country="🇺🇬 Uganda",3ABN TV Uganda (720p) [Not 24/7]
+#EXTXSTREAM:1
 https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
 #EXTGRP:General
-#EXTINF:-1 tvg-name="3HD" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="General" video-type="Live" country="🇦🇬 Antigua and Barbuda",3HD
+#EXTINF:-1 tvg-name="3HD" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="General" video-type="Live TV" country="🇦🇬 Antigua and Barbuda",3HD
+#EXTXSTREAM:1
 https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
 #EXTGRP:Undefined
-#EXTINF:-1 tvg-name="4 Fun TV (288p) [Not 24/7" tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="Undefined" video-type="Live" country="",4 Fun TV (288p) [Not 24/7
+#EXTINF:-1 tvg-name="4 Fun TV (288p) [Not 24/7" tvg-logo="https://i.imgur.com/rI1wo2l.png" group-title="Undefined" video-type="Live TV" country="🌐 International",4 Fun TV (288p) [Not 24/7
+#EXTXSTREAM:1
 https://stream.4fun.tv:8888/hls/4f.m3u8
-#EXTINF:-1 tvg-name="4K Travel TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcG7ID0dN-QdHNzHs0oCyUHAZC8ZsLRxV9qQ&s" group-title="Undefined" video-type="Live" country="🇦🇲 Armenia",4K Travel TV
+#EXTINF:-1 tvg-name="4K Travel TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcG7ID0dN-QdHNzHs0oCyUHAZC8ZsLRxV9qQ&s" group-title="Undefined" video-type="Live TV" country="🇦🇲 Armenia",4K Travel TV
+#EXTXSTREAM:1
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 #EXTGRP:Entertainment
-#EXTINF:-1 tvg-name="4U TV (720p)" tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Entertainment" video-type="Live" country="🇧🇮 Burundi",4U TV (720p)
+#EXTINF:-1 tvg-name="4U TV (720p)" tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Entertainment" video-type="Live TV" country="🇧🇮 Burundi",4U TV (720p)
+#EXTXSTREAM:1
 https://hls.4utv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-name="AZ2" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="Entertainment" video-type="Live" country="🇵🇭 Philippines",AZ2
+#EXTINF:-1 tvg-name="AZ2" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="Entertainment" video-type="Live TV" country="🇵🇭 Philippines",AZ2
+#EXTXSTREAM:1
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_5.m3u8
 #EXTGRP:News
-#EXTINF:-1 tvg-name="Aaj Tak News" tvg-logo="https://www.sabinchaudhary.com.np/LiveTv/Ajtak.png" group-title="News" video-type="Live" country="🇮🇳 India",Aaj Tak News
+#EXTINF:-1 tvg-name="Aaj Tak News" tvg-logo="https://www.sabinchaudhary.com.np/LiveTv/Ajtak.png" group-title="News" video-type="Live TV" country="🇮🇳 India",Aaj Tak News
+#EXTXSTREAM:1
 https://feeds.intoday.in/aajtak/api/master.m3u8
-#EXTINF:-1 tvg-name="1st India" tvg-logo="https://www.sabinchaudhary.com.np/LiveTv/1india.jpg" group-title="News" video-type="Live" country="🇮🇳 India",1st India
+#EXTINF:-1 tvg-name="1st India" tvg-logo="https://www.sabinchaudhary.com.np/LiveTv/1india.jpg" group-title="News" video-type="Live TV" country="🇮🇳 India",1st India
+#EXTXSTREAM:1
 https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
-#EXTINF:-1 tvg-name="News 24 India" tvg-logo="https://www.sabinchaudhary.com.np/LiveTv/news24.jpg" group-title="News" video-type="Live" country="🇮🇳 India",News 24 India
+#EXTINF:-1 tvg-name="News 24 India" tvg-logo="https://www.sabinchaudhary.com.np/LiveTv/news24.jpg" group-title="News" video-type="Live TV" country="🇮🇳 India",News 24 India
+#EXTXSTREAM:1
 https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-name="CLTV 36 (720p) [Not 24/7]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMcxBFVXj95pMGEK1PFmbL_fQJNXhwl2O-dg&s" group-title="News" video-type="Live" country="🇵🇭 Philippines",CLTV 36 (720p) [Not 24/7]
+#EXTXSTREAM:1
 https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
-#EXTINF:-1 tvg-name="DZBB-DT1" tvg-logo="https://i.imgur.com/5GXTkZx.png" group-title="News" video-type="Live" country="🇵🇭 Philippines",DZBB-DT1
+#EXTINF:-1 tvg-name="DZBB-DT1" tvg-logo="https://i.imgur.com/5GXTkZx.png" group-title="News" video-type="Live TV" country="🇵🇭 Philippines",DZBB-DT1
+#EXTXSTREAM:1
 https://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=1580780638
-#EXTINF:-1 tvg-name="Mindanow Network TV" tvg-logo="https://i.imgur.com/xBlYirh.jpeg" group-title="News" video-type="Live" country="🇵🇭 Philippines",Mindanow Network TV
+#EXTINF:-1 tvg-name="Mindanow Network TV" tvg-logo="https://i.imgur.com/xBlYirh.jpeg" group-title="News" video-type="Live TV" country="🇵🇭 Philippines",Mindanow Network TV
+#EXTXSTREAM:1
 https://streams1.comclark.com/overlay/mindanow/chunks.m3u8?nimblesessionid=45020
 #EXTGRP:Religious
-#EXTINF:-1 tvg-name="CCTN 47" tvg-logo="https://i.imgur.com/IFpAmvW.png" group-title="Religious" video-type="Live" country="🇵🇭 Philippines",CCTN 47
+#EXTINF:-1 tvg-name="CCTN 47" tvg-logo="https://i.imgur.com/IFpAmvW.png" group-title="Religious" video-type="Live TV" country="🇵🇭 Philippines",CCTN 47
+#EXTXSTREAM:1
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
-#EXTINF:-1 tvg-name="INC TV" tvg-logo="https://i.imgur.com/JGSLqA6.png" group-title="Religious" video-type="Live" country="🇵🇭 Philippines",INC TV
+#EXTINF:-1 tvg-name="INC TV" tvg-logo="https://i.imgur.com/JGSLqA6.png" group-title="Religious" video-type="Live TV" country="🇵🇭 Philippines",INC TV
+#EXTXSTREAM:1
 https://stream-199211.castr.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/tracks-v1a1/rewind-7200.ts.m3u8
 #EXTGRP:Entertainment
-#EXTINF:-1 tvg-name="5-Minute Craft (1080p)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1wwMwCZodc8qFd3cemz47UNCXWbjZK6ZvZA&s" group-title="Entertainment" video-type="Live" country="🇨🇲 Cameroon",5-Minute Craft (1080p)
+#EXTINF:-1 tvg-name="5-Minute Craft (1080p)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1wwMwCZodc8qFd3cemz47UNCXWbjZK6ZvZA&s" group-title="Entertainment" video-type="Live TV" country="🇨🇲 Cameroon",5-Minute Craft (1080p)
+#EXTXSTREAM:1
 https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
-#EXTGRP:Movie
-#EXTINF:-1 tvg-name="28-Weeks-Later" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShb5fXsqpyHCP6hk_yhPTeb5u0Sc7tpobOMQ&s" group-title="Movie" video-type="Hollywood Horror" country="🇺🇸 United States",28 Weeks Later
+#EXTGRP:Hollywood Horror
+#EXTINF:-1 tvg-name="28 Weeks Later" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShb5fXsqpyHCP6hk_yhPTeb5u0Sc7tpobOMQ&s" group-title="Hollywood Horror" video-type="Movie" country="🇺🇸 United States",28 Weeks Later
+#EXTXSTREAM:1
 https://dn720004.ca.archive.org/0/items/movies_202211/28%20Weeks%20Later.mp4
-
-#EXTGRP:Live TV
-#EXTINF:-1 tvg-name="5 Plus (480p)" tvg-logo="https://i.imgur.com/4EHL2mH.png" group-title="Live TV" video-type="Entertainment" country="🇨🇦 Canada",5 Plus (480p)
+#EXTGRP:General
+#EXTINF:-1 tvg-name="5 Plus (480p)" tvg-logo="https://i.imgur.com/4EHL2mH.png" group-title="General" video-type="Live TV" country="🇨🇦 Canada",5 Plus (480p)
+#EXTXSTREAM:1
 https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
-#EXTINF:-1 tvg-name="5TV Corrientes (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="Live TV" video-type="General" country="🇨🇦 Canada",5TV Corrientes (480p) [Not 24/7]
+#EXTINF:-1 tvg-name="5TV Corrientes (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="General" video-type="Live TV" country="🇨🇦 Canada",5TV Corrientes (480p) [Not 24/7]
+#EXTXSTREAM:1
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
-#EXTINF:-1 tvg-name="6PR Perth (1080p)" tvg-logo="https://i.imgur.com/Q9iCxg1.png" group-title="Live TV" video-type="News" country="🇦🇺 Australia",6PR Perth (1080p)
+#EXTGRP:Live TV
+#EXTINF:-1 tvg-name="6PR Perth (1080p)" tvg-logo="https://i.imgur.com/Q9iCxg1.png" group-title="Live TV" video-type="Live TV" country="🇦🇺 Australia",6PR Perth (1080p)
+#EXTXSTREAM:1
 https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
-
