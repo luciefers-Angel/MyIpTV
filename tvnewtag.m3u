@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTGRP:Anime Series Tagalog Dub
-#EXTINF:-1 tvg-name="Naruto Kid" tvg-logo="https://resizing.flixster.com/R9ybOpF1Sn76VC3mbidnN66_rVU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9161972_b_h9_aa.jpg" group-title="Anime" video-type="Tagalog Dub Series" country="🇯🇵 Japan",Naruto Kid
+#EXTGRP:Anime Series
+#EXTINF:-1 tvg-name="Naruto Kid" tvg-logo="https://resizing.flixster.com/R9ybOpF1Sn76VC3mbidnN66_rVU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9161972_b_h9_aa.jpg" group-title="Anime" video-type="TV Series" country="🇯🇵 Japan",Naruto Kid
 #EXTXEPISODE:1
 https://animerevival.xyz/files/nrkd/Naruto%2001.mp4
 #EXTXEPISODE:2
@@ -203,8 +203,8 @@ https://animerevival.xyz/files/nrkd/Naruto%2099.mp4
 #EXTXEPISODE:100
 https://animerevival.xyz/files/nrkd/Naruto%20100.mp4
 
-#EXTGRP:Anime Series Tagalog Dub
-#EXTINF:-1 tvg-name="Boruto: Naruto Next Generations" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe8HBjtsL7eRAi7ayvclRtw_n72WlZSqeN4Q&s" group-title="Anime Tagalo Dub" video-type="TV Series" country="🇯🇵 Japan",Boruto: Naruto Next Generations
+#EXTGRP:Anime Series
+#EXTINF:-1 tvg-name="Boruto: Naruto Next Generations" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe8HBjtsL7eRAi7ayvclRtw_n72WlZSqeN4Q&s" group-title="Tagalog Dub" video-type="TV Series" country="🇯🇵 Japan",Boruto: Naruto Next Generations
 #EXTXEPISODE:1
 https://ia801504.us.archive.org/27/items/b-0rutu-1x-1/B0rutu%201x1.mp4
 #EXTXEPISODE:2
