@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTGRP:Anime
+#EXTINF:-1 tvg-name="Naruto Kid" tvg-logo="https://resizing.flixster.com/R9ybOpF1Sn76VC3mbidnN66_rVU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9161972_b_h9_aa.jpg" group-title="Anime" video-type="TV Series" country="🇯🇵 Japan",Naruto Kid
+#EXTXEPISODE:1
+https://animerevival.xyz/files/nrkd/Naruto%2001.mp4
+https://animerevival.xyz/files/nrkd/Naruto%2002.mp4
+#EXTXEPISODE:2
+https://animerevival.xyz/files/nrkd/Naruto%2002.mp4
+
+#EXTGRP:Anime Japanese No Sub
+#EXTINF:-1 tvg-name="One Punch Man Season 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTg5DK6gZyUdD5_NwgTiu0xeonXgOQRF6BXZ_eC7n_4mAdWRZ7Ogd0cGQk&s=10" group-title="Anime Japanese No Sub" video-type="TV Series" country="🇯🇵 Japan",One Punch Man Season 1
+#EXTXEPISODE:1
+https://storage.kanzaki.ru/ANIME___/One-Punch_Man/%5BHorribleSubs%5D%20One-Punch%20Man%20-%2001%20%5B720p%5D.mkv
+#EXTXEPISODE:2
+https://storage.kanzaki.ru/ANIME___/One-Punch_Man/%5BHorribleSubs%5D%20One-Punch%20Man%20-%2002%20%5B720p%5D.mkv
+
+#EXTGRP:General
+#EXTINF:-1 tvg-name="1Almere TV (720p)" tvg-logo="https://i.imgur.com/XfkbTrU.png" group-title="General" video-type="Live TV" country="🇦🇱 Albania",1Almere TV (720p)
+#EXTXSTREAM:1
+https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8
+https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8
+
+#EXTGRP:Entertainment
+#EXTINF:-1 tvg-name="1KZNTV.za" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" group-title="Entertainment" video-type="Live TV" country="🇦🇱 Albania",1KZNTV.za
+https://youtu.be/vvCzT-8PIho?si=sX0OLUOJg8l2biXx
+https://animerevival.xyz/files/nrkd/Naruto%2001.mp4
+
