@@ -3,6 +3,7 @@
 #EXTINF:-1 tvg-name="Naruto Kid" tvg-logo="https://resizing.flixster.com/R9ybOpF1Sn76VC3mbidnN66_rVU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9161972_b_h9_aa.jpg" group-title="Anime" video-type="TV Series" country="🇯🇵 Japan",Naruto Kid
 #EXTXEPISODE:1
 https://animerevival.xyz/files/nrkd/Naruto%2001.mp4
+https://animerevival.xyz/files/nrkd/Naruto%2002.mp4
 #EXTXEPISODE:2
 https://animerevival.xyz/files/nrkd/Naruto%2002.mp4
 #EXTXEPISODE:3
@@ -405,8 +406,6 @@ http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTXSTREAM:1
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
-
-
 #EXTGRP:Live TV
 #EXTINF:-1 tvg-name="6PR Perth (1080p)" tvg-logo="https://i.imgur.com/Q9iCxg1.png" group-title="Live TV" video-type="Live TV" country="🇦🇺 Australia",6PR Perth (1080p)
 #EXTXSTREAM:1
@@ -416,10 +415,11 @@ https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
 #EXTINF:-1 tvg-name="Pitong Gatang" tvg-logo:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7xqZmsSVxkgZPvGnAUT4n4jjuwulebzVWzyZlDPA3y-0NDIacGlcNHoR5&s=10" group-title="Pinoy Movie" video-type="Movie" country="🇵🇭 Philippines",Pitong Gatang
 #EXTXSTREAM:
 https://youtu.be/2Sw1gZZR4hY?si=ZuMIcRLhSz_M65rq
-
+https://animerevival.xyz/files/nrkd/Naruto%2001.mp4
 #EXTGRP:Movie
 #EXTINF:-1 tvg-name="Hanggat May Hininga" tvg-logo:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ8Vva_JHrKT3ZxYN8gwT9adxW8ROgvv2cf7GQo4X6zNBTc8jdgnlUKBw&s=10" group-title="Pinoy Movie" video-type="Movie" country="🇵🇭 Philippines",Hanggat May Hininga
 #EXTXSTREAM:
 https://youtu.be/vvCzT-8PIho?si=sX0OLUOJg8l2biXx
+https://animerevival.xyz/files/nrkd/Naruto%2001.mp4
 
 
