@@ -1,0 +1,218 @@
+{
+  "Categories": [
+    {
+      "MainCategory": "Movies",
+      "SubCategories": [
+        "All",
+        "Hollywood",
+        "Korean",
+        "Tagalog",
+        "Anime",       
+        "Cartoon",
+        "Animated"
+      ],
+      "Entries": [
+        {
+          "Title": "Inception",
+          "SubCategory": "Hollywood",
+          "Country": "🇺🇸 USA",
+          "Description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+          "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5RO98r0C3gxSnCPelcM-G_MDYr_O4SQzinRHNFC_vX3CIbpzRHO6-c962&s=10",
+          "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqe0ITbqO_PToNPIx_X4sf-zJtVYboBVDz1XFJA3RcjPnO6HwU8oqM0WA&s=10",
+          "Servers": [
+            {
+              "name": "4K",
+              "url": "https://youtu.be/vvCzT-8PIho?si=sX0OLUOJg8l2biXx"
+            },
+            {
+              "name": "1080p",
+              "url": "https://example.com/inception_1080p"
+            },
+            {
+              "name": "720p",
+              "url": "https://example.com/inception_720p"
+            },
+            {
+              "name": "480p",
+              "url": "https://example.com/inception_480p"
+            }
+          ]
+        },
+        {
+          "Title": "Parasite",
+          "SubCategory": "Korean",
+          "Country": "🇰🇷 South Korea",
+          "Description": "Greed and class discrimination threaten a newly formed symbiotic relationship between two families.",
+          "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5c3dOTyPRyNl8BOK7DPk9Cg3CQwmXVLlIYXAHdx3dxQE9D01NRgJKji8&s=10",
+          "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOV74jr7vmEYIzl_PIj4IjnAFE4S98P9mkqNUNUE7gGp-Cb-p3Gp1Xdmw&s=10",
+          "Servers": [
+            {
+              "name": "4K",
+              "url": "https://example.com/parasite_4k"
+            },
+            {
+              "name": "1080p",
+              "url": "https://example.com/parasite_1080p"
+            },
+            {
+              "name": "720p",
+              "url": "https://example.com/parasite_720p"
+            },
+            {
+              "name": "480p",
+              "url": "https://example.com/parasite_480p"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "MainCategory": "TV Series",
+      "SubCategories": [
+        "All",
+        "Anime Series",
+        "Hollywood",
+        "K-Drama",
+        "C-Drama",
+        "Pinoy-Series",
+        "Anime Tagalo Dub",
+        "Cartoon Series"
+      ],
+      "Entries": [
+        {
+          "Title": "Naruto Kid",
+          "SubCategory": "Anime Tagalo Dub",
+          "Country": "🇯🇵 Japan",
+          "Description": "The Naruto story, this series follows young Naruto Uzumaki as he trains to become a top ninja. Alongside his friends Sakura and Sasuke Naruto faces challenges, learns important lessons, and forms strong friendships. Filled with action, humor, and heart, it's a great way for kids to discover the world of Naruto.",
+          "Poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9161972_b_h9_aa.jpg",
+          "Thumbnail": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9161972_b_h9_aa.jpg",
+          "Seasons": [
+            {
+              "Season": 1,
+              "SeasonPoster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9161972_b_h9_aa.jpg",
+          "Thumbnail": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9161972_b_h9_aa.jpg",
+              "Episodes": [
+                {
+                  "Episode": 1,
+                  "Title": "Pilot",
+                  "Thumbnail": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9161972_b_h9_aa.jpg",
+          "Poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9161972_b_h9_aa.jpg",
+                  "Servers": [
+                    {
+                      "name": "480p",
+                      "url": "https://animerevival.xyz/files/nrkd/Naruto%2001.mp4"
+                    }
+                  ]
+                },
+                {
+                  "Episode": 2,
+                  "Title": "Episode 2",
+                  "Thumbnail": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9161972_b_h9_aa.jpg",
+          "Poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9161972_b_h9_aa.jpg",
+                  "Servers": [
+                    {
+                      "name": "480p",
+                      "url": "https://animerevival.xyz/files/nrkd/Naruto%2002.mp4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "Season": 2,
+              "SeasonPoster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9S1-4Mq6XRT834AUfwhwbZ1Qc-wWZTKCF6Qnx_8kAVrPQ_28jdEJktDk-&s=10",
+          "Thumbnail": "https://static.wikia.nocookie.net/tvdatabase/images/7/79/Breaking_Bad.jpg/revision/latest?cb=20150305174548",
+              "Episodes": [
+                {
+                  "Episode": 1,
+                  "Title": "Seven Thirty-Seven",
+                  "Thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9S1-4Mq6XRT834AUfwhwbZ1Qc-wWZTKCF6Qnx_8kAVrPQ_28jdEJktDk-&s=10",
+          "Thumbnail": "https://static.wikia.nocookie.net/tvdatabase/images/7/79/Breaking_Bad.jpg/revision/latest?cb=20150305174548",
+                  "Servers": [
+                    {
+                      "name": "4K",
+                      "url": "https://example.com/breaking_bad_s2e1_4k"
+                    },
+                    {
+                      "name": "1080p",
+                      "url": "https://example.com/breaking_bad_s2e1_1080p"
+                    },
+                    {
+                      "name": "720p",
+                      "url": "https://example.com/breaking_bad_s2e1_720p"
+                    },
+                    {
+                      "name": "480p",
+                      "url": "https://example.com/breaking_bad_s2e1_480p"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "MainCategory": "Live TV",
+      "SubCategories": [
+        "All",
+        "Sports",
+        "News",
+        "Entertainment"
+      ],
+      "Entries": [
+        {
+          "Title": "ESPN Live",
+          "SubCategory": "Sports",
+          "Country": "🇺🇸 USA",
+          "Poster": "https://example.com/espn_poster.jpg",
+          "Thumbnail": "https://example.com/espn_thumbnail.jpg",
+          "Servers": [
+            {
+              "name": "4K",
+              "url": "https://example.com/espn_4k"
+            },
+            {
+              "name": "1080p",
+              "url": "https://example.com/espn_1080p"
+            },
+            {
+              "name": "720p",
+              "url": "https://example.com/espn_720p"
+            },
+            {
+              "name": "480p",
+              "url": "https://example.com/espn_480p"
+            }
+          ]
+        },
+        {
+          "Title": "CNN Live",
+          "SubCategory": "News",
+          "Country": "🇺🇸 USA",
+          "Poster": "https://example.com/cnn_poster.jpg",
+          "Thumbnail": "https://example.com/cnn_thumbnail.jpg",
+          "Servers": [
+            {
+              "name": "4K",
+              "url": "https://example.com/cnn_4k"
+            },
+            {
+              "name": "1080p",
+              "url": "https://example.com/cnn_1800p"
+            },
+            {
+              "name": "720p",
+              "url": "https://example.com/cnn_720p"
+            },
+            {
+              "name": "480p",
+              "url": "https://example.com/cnn_480p"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
